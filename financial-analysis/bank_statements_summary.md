@@ -82,3 +82,44 @@
 4. TFS trustee payment entries — verify $600/month payments
 5. Affinity Plus vehicle payment entries — verify payment dates
 6. Second account details — where is the paycheck going now?
+
+---
+
+## US BANK SMARTLY CHECKING (Account 1-675-0346-4775)
+
+**This is the account Kyle opened to redirect paycheck away from Hillary.**
+**Account ending 4775 — the same number NAF had on file for mortgage payments.**
+**Kyle is the sole holder — Hillary is NOT on this account.**
+
+### Monthly Summary:
+
+| Statement Period | Beginning Balance | Deposits | Withdrawals | Ending Balance |
+|-----------------|------------------|----------|-------------|---------------|
+| Jul 9 – Aug 7, 2025 | — | — | — | $8,517.31* |
+| Aug 8 – Sep 8, 2025 | $8,517.31 | $21,371.72 | $29,494.46 | $394.57 |
+| Sep 9 – Oct 7, 2025 | — | — | — | — |
+| Oct 8 – Nov 7, 2025 | — | — | — | — |
+| Nov 8 – Dec 5, 2025 | — | — | — | — |
+| Dec 6 – Jan 8, 2026 | — | — | — | — |
+| Jan 9 – Feb 6, 2026 | — | — | — | — |
+| Feb 7 – Mar 6, 2026 | $6.00 | $15,252.95 | $12,752.48 | $2,506.47 |
+| Mar 7 – Apr 7, 2026 | $2,506.47 | $9,912.75 | $12,079.60 | $339.62 |
+
+*Summaries for some months not captured from page 1 — need deeper extraction*
+
+### Key Observations:
+- Account opened mid-2025 (first statement Jul 2025)
+- Paycheck from Golf Stix deposits here (confirmed: "Electronic Deposit From GOLF STIX INC")
+- Paycheck amount: ~$3,909-$3,949 per deposit (biweekly)
+- Account runs near zero most months — money comes in and goes out
+- Overdraft fee waived/forgiven on Mar 23, 2026 ($36.00)
+- Mar 17-18, 2026: Venmo payments to "Waid Isla" totaling $1,303.78 (2 days after Hillary's death — possibly funeral/family related)
+
+### 9 statements covering Jul 2025 – Apr 2026
+- Also contains "refusing my payments.pdf" (already processed — NAF payment dispute)
+
+### This Account Confirms:
+1. Kyle's paycheck goes to US Bank, NOT Wells Fargo (starting mid-2025)
+2. Account ending 4775 is the correct account number for mortgage payments
+3. NAF had this number on file and acknowledged it in their email
+4. Hillary was NOT on this account — Kyle opened it specifically to protect funds
