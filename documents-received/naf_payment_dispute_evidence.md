@@ -92,3 +92,39 @@
 5. NAF's own email proved they had the correct account number while claiming it was invalid
 6. Two bounced payments (from their refusal) occurred the week Hillary died
 7. These bounced payments potentially count as "defaults" under the cure agreement
+
+---
+
+## ESCROW DEFICIT ANALYSIS — FULL ACCOUNTING
+
+### Escrow Deficit: $7,738.16
+
+### Legitimate Cost Increases (explain part of deficit):
+
+| Item | Annual Increase | Source |
+|------|----------------|--------|
+| Property tax increase (2025→2026) | $1,056 | Dakota County tax statements |
+| Hazard insurance increase | $1,135 | Universal Property renewal: $3,172→$4,307 |
+| Water bill added to tax bill | $1,000 (one-time) | Kyle reported |
+| **Total legitimate** | **~$4,191** | |
+
+### Unexplained Deficit: ~$3,547
+
+This portion is NOT explained by legitimate cost increases. Likely sources:
+- $4,143.80 in suspense (payments held, not applied)
+- $1,260+ in attorney fees from false 7-payment motion
+- Payments not credited to escrow due to suspense accounting
+
+### Hazard Insurance Details (2026-2027 Renewal):
+- Insurer: Universal Property & Casualty Insurance Company
+- Policy: 3601-1800-0612
+- Period: 03/06/2026 — 03/06/2027
+- Total premium: $4,307.39
+- Mortgagee billed (NAF pays from escrow)
+- Dwelling coverage: $523,586
+- Prior year budgeted in escrow: $3,172.48
+- Increase: $1,134.91/year = $94.58/month
+
+### NAF's Proposed $300+ Monthly Increase:
+NAF wants to raise Kyle's payment by $300+/month to cover the escrow deficit.
+Even accounting for ALL legitimate increases (~$183/month shortfall), a $300+ increase includes recovering the ~$3,547 in deficit that NAF's own accounting practices created.
