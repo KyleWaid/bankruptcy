@@ -172,3 +172,108 @@ See OPEN_QUESTIONS.md for the full list. Key unknowns:
 - Identity and role of the second attorney
 - Whether 2022 tax bill was paid or is in the bankruptcy
 - Current monthly budget and expenses
+
+---
+
+## UPDATE — April 12, 2026 (Session 1, Batch 2)
+
+### CONFIRMED: Hillary's Date of Death = March 16, 2026
+
+### New Documents Processed
+
+#### TFS Bill Pay Dashboard (captured 04/11/2026)
+- Total paid to trustee: $9,600.00
+- Payment method: Always Manual Payments
+- Monthly payment: $600.00
+- Last successful payment: March 16, 2026 ($600 + $3.99 fee)
+- Failed payment: March 12, 2026 ($600 — failed)
+- Trustee: Gregory A. Burrell
+
+#### 2024 Tax Return (prepared by Nina Lyakh, printed 08/12/2025)
+- Filing Status: Married Filing Joint
+- W-2: Zastro LLC $50,622 + Golf Stix $77,619 = $128,241
+- Schedule C: Gekko Tek LLC, $825 gross (Zastro 1099-NEC)
+- 1099-R: $7,558 early distributions (Ascensus $6,540 + State Street $1,018)
+- AGI: $136,566
+- Federal Tax: $8,565 / Withholding: $9,351 / Refund: $786
+- MN Tax: $5,602 / Withholding: $6,324 / Refund: $722
+- Tax Bracket: 22%
+- Self-employment tax: $872
+
+#### MN Tax Bill (Oct 29, 2024)
+- Period: 12/31/2022
+- Principal: $12,329.00
+- Penalty: $322.38
+- Interest: $384.44
+- Payments/Credits: ($10,554.32)
+- Balance Due: $2,481.50
+- Due Date: November 28, 2024
+
+#### Trustee Claim Letter (Nov 15, 2024) — Patty Bell, Claims Examiner
+- MN Dept of Revenue filed claim: $2,481.50, priority status
+- Plan did not specifically provide for it
+- Trustee inputting as allowed priority claim, pro rata with other priority unsecured
+- CC: Kyle Waid
+- Sent to: Andrew C. Walker, Walker & Walker, 4356 Nicollet Avenue South, Minneapolis MN 55409
+
+#### Trustee Tax Return Demand (Feb 17, 2026) — Gregory A. Burrell
+- Demanding 2025 state and federal returns with all schedules
+- Must send after filing with taxing authorities
+- Must redact PII (SSN, DOB, account numbers, PIN)
+- WARNING: Failure to send may result in trustee filing motion to dismiss
+- Do not spend refunds until trustee determines estate portion
+- CC: Andrew C. Walker
+
+#### IRS Notice CP14 (Oct 31, 2024) — 2022 Federal Tax
+- Tax owed when filed: $27,919.00
+- Total penalties: $2,427.19
+- Total interest: $1,151.74
+- Payments and credits: $20,334.00
+- Amount due by Nov 11, 2024: $11,163.93
+
+#### IRS Letter 4883C (Nov 14, 2024) — Identity Verification
+- 2021 tax return flagged
+- Must call 800-830-5084 to verify identity
+- Cannot process return or issue refunds until verified
+- Control number: 70221 674 04155 4
+
+#### IRS Withholding Compliance (Nov 20, 2024) — Decks Direct
+- IRS sent lock-in letter to employer Decks Direct Inc (EIN 33-1124841)
+- Forced filing status to SINGLE
+- Checkbox higher withholding rate on W-4 Step 2(C)
+- All deductions set to $0
+- IRS instructed employer not to honor current W-4 unless it results in MORE withholding
+
+#### IRS CP59 Notices (Feb 16, 2026)
+- IRS has NO RECORD of receiving 2021 return
+- IRS has NO RECORD of receiving 2023 return
+- Warns of penalties, backup withholding, loss of refund rights
+
+#### MN Suspicious Return (June 6, 2023)
+- 2022 Property Tax Refund flagged as suspicious
+- Processing stopped
+- Must contact by July 6, 2023
+
+#### Vehicle Loans (Affinity Plus Federal Credit Union)
+- Account: XXXXXXX331
+- 2017 Toyota Sienna ID:0102 — Balance: $2,267.66 as of 04/10/2026
+  - User making DOUBLE payments (~$464 × 2/month)
+  - Statement period: 11/01/24 to 04/10/26
+- 2019 Jeep Grand Cherokee ID:0103 — Balance: $17,738.58 as of 04/10/2026
+  - User making DOUBLE payments (~$639 × 2/month)
+  - Statement period: 11/01/24 to 04/10/26
+  - One reversed payment (NSF) noted on 01/06/26
+
+#### Walker & Walker Signatures For Filing (13 pages)
+- Attorney: Walker & Walker, phone (612) 824-4357
+- Standard Ch.13 onboarding disclosures
+- Key points disclosed to debtor:
+  - First payment due within 30 days
+  - Must maintain insurance on vehicles
+  - Must file taxes every year during Ch.13
+  - Entitled to first $2,000 of tax refunds (joint filing)
+  - Bonuses may need to be paid into plan
+  - Must report windfalls (inheritances, life insurance, lawsuit proceeds)
+  - Student loans generally not dischargeable
+  - Financial Management Course required ($15 through their company)
+  - Walker & Walker address: 4356 Nicollet Avenue South, Minneapolis MN 55409
