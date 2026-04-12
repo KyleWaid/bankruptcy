@@ -198,3 +198,68 @@
 **Jeep Cherokee:** Nov 24, Dec 24, Jan 25, Mar 25, May 25, Jun 25, Jul 25, Aug 25, Nov 25, Dec 25, Mar 26 = **11 months with no whole direct payment**
 
 **NOTE:** The BK PMT amounts ($129-$272) coming from the trustee are NOT full monthly payments. They are partial amounts from the $600/month plan payment being split across creditors. Whether Affinity Plus counts these as "payments" toward keeping current is a separate question.
+
+---
+
+## CORRECTION — Actual Monthly Payment Amounts
+
+**Toyota Sienna monthly payment: $463.97** (NOT $927.98 — those were double payments)
+**Jeep Grand Cherokee monthly payment: $638.96** (NOT $1,277.92 — those were double payments)
+
+The entries showing $927.98 (Toyota) and $1,277.92 (Jeep) represent TWO monthly payments made at once — catching up on missed months.
+
+---
+
+## CORRECTED MONTH-BY-MONTH COUNT
+
+### Toyota Sienna ($463.97/month required):
+
+| Month | Whole Payments Made | Source | Running Tally (paid vs due) |
+|-------|-------------------|--------|---------------------------|
+| Nov 2024 | 0 | — | -1 |
+| Dec 2024 | 0 | — | -2 |
+| Jan 2025 | 2 | $927.98 check | 0 (caught up) |
+| Feb 2025 | 6 | $2,843.80 check | +5 (ahead) |
+| Mar 2025 | 0 (covered) | — | +4 |
+| Apr 2025 | 1 + BK | $463.99 + $236.25 BK | +4 |
+| May 2025 | 0 + BK | $135 BK only | +3 |
+| Jun 2025 | 0 + BK | $135 BK only | +2 |
+| Jul 2025 | 0 + BK | $135 BK only | +1 |
+| Aug 2025 | 0 + BK | $135 BK only | 0 |
+| Sep 2025 | ~9 | $2,669.89 + $1,741.91 | +8 |
+| Oct 2025 | 0 (covered) | — | +7 |
+| Nov 2025 | 0 (covered) | — | +6 |
+| Dec 2025 | 0 (covered) | — | +5 |
+| Jan 2026 | 3 | $927.98 + $463.97 + BK | +7 |
+| Feb 2026 | 0 + BK | $129.72 BK only | +6 |
+| Mar 2026 | 0 + BK | $129.72 BK only | +5 |
+| Apr 2026 | 2 | $927.98 check | +6 |
+
+**Toyota conclusion: Based on whole payment count, appears AHEAD — not behind.**
+
+### Jeep Grand Cherokee ($638.96/month required):
+
+| Month | Whole Payments Made | Source | Running Tally (paid vs due) |
+|-------|-------------------|--------|---------------------------|
+| Nov 2024 | 0 | — | -1 |
+| Dec 2024 | 0 | — | -2 |
+| Jan 2025 | 0 | — | -3 |
+| Feb 2025 | 3 | $1,916.88 check | 0 (caught up) |
+| Mar 2025 | 0 | — | -1 |
+| Apr 2025 | 2 + BK | $1,277.92 + $236.25 BK | +1 |
+| May 2025 | 0 + BK | $135 BK only | 0 |
+| Jun 2025 | 0 + BK | $135 BK only | -1 |
+| Jul 2025 | 0 + BK | $135 BK only | -2 |
+| Aug 2025 | 0 + BK | $135 BK only | -3 |
+| Sep 2025 | 2 | $1,277.92 check | -1 |
+| Oct 2025 | 2 | $1,277.92 check | +1 |
+| Nov 2025 | 0 | — | 0 |
+| Dec 2025 | 0 | — | -1 |
+| Jan 2026 | 2 | $1,277.92 (1/6 bounced, 1/22 replaced) = net 2 | +1 |
+| Feb 2026 | 1 | $638.96 + BK | +1 |
+| Mar 2026 | 0 + BK | $129.72 BK only | 0 |
+| Apr 2026 | 2 | $1,277.92 check | +2 |
+
+**Jeep conclusion: Based on whole payment count, appears roughly current or slightly ahead.**
+
+**NOTE:** These tallies count payments by dollar amount divided by the monthly payment. They do NOT account for how Affinity Plus applies payments (they may apply to oldest balance first), interest, fees, or BK PMT credits. The bank's accounting may show a different picture than this simple count. But the raw dollars paid tell the story of effort.
