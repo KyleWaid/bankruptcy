@@ -242,3 +242,112 @@ Informed Lisa that Hillary passed away March 16th. Asked about unresolved IRS is
 5. Proactively discuss the deteriorating financial situation
 6. Question or challenge the IRS's selective acceptance of returns
 7. File any motion related to the IRS issue
+
+---
+
+## EMAIL 13: "Refile" — Mar 7, 2026 — **NO RESPONSE FROM WALKER & WALKER**
+
+**Kyle → Lisa, Ethan (12:30 PM):**
+"I read it is possible to dismiss and refile my bankruptcy. I truly believe I need to do this. As you know you helped me get my house situation settled, but I am also behind on both of my cars. I am just not being successful but I have a big shovel and can get through this if I can get a reset. I know that your time is valuable and I have the ability to pay what I need to to you to fix this. In regards to my arrears debt, I have 10,000 in taxes rolled in that I do not technically owe. I am willing to do whatever it takes to get back on track."
+
+**Kyle → Lisa, Ethan (12:38 PM):**
+"Also, is there a plan modification option instead that would help?"
+
+**Kyle → Lisa, Ethan (12:42 PM):**
+Explained NAF rejected his March 2 payment claiming invalid banking details. "I am 100% sure I gave them correct information." Afraid it will count as a default.
+
+**Kyle → Lisa, Ethan (Mar 9, 5:26 PM):**
+"Aside from the car loans I believe I am on track for both my mortgage and plan payments. I am concerned the car company will file a petition to take my vehicles... I am about 3 payments behind. I am not frivolously spending my money... I am just concerned the situation is serious enough I need to let you know."
+
+**⚠️ ZERO RESPONSE to any of the 4 emails in this thread. Kyle asked about dismiss/refile, plan modification, and vehicle concerns. Complete silence from Walker & Walker.**
+
+---
+
+## EMAIL 14: "Another question" — Mar 10, 2026 — **NO RESPONSE**
+
+**Kyle → Christopher (1:26 PM):**
+"I am asking you because you seem to be the most responsive. I asked in an email about how I could alter my plan or even restart it. I have car payments I am behind on and am concerned. First, I am extremely grateful for all of your guys help. I think the communication with Lisa/Nathan is sometimes really awesome and quick and sometimes I do not get responses. I can accept I am doing something wrong or irritating them or they are just busy. Can you advise me on the best way to approach them with this request?"
+
+**⚠️ ZERO RESPONSE. Kyle explicitly told CJ that Lisa and Ethan aren't responding to him and asked for help getting through. No reply from CJ.**
+
+---
+
+## EMAIL 15: "Question" (NAF default/payment issues) — Mar 5-6, 2026
+
+**Kyle → CJ (Mar 5, 10:54 AM):**
+Called NAF to make first payment. They told him he was 9 payments behind. Payment not processing. Held in suspense account.
+
+**CJ → Kyle (11:04 AM):**
+Confirm receipt with NAF. March 15 payment needs to be certified funds to PO Box 170581, Austin TX 78717.
+
+**Kyle → CJ (Mar 6, 10:09 AM):**
+Payment did not come out. NAF says could take 7 days. Kyle suspects intentional delay.
+
+**CJ → Kyle (Mar 6, 10:20 AM):**
+"As long as they see the payment, we are fine. Try to get some sort of receipt or screen shot."
+
+**Kyle → CJ (Mar 6, 2:04 PM):**
+NAF claiming incorrect checking account details. Kyle says he's sure info was correct.
+
+**Kyle → CJ (Mar 6, 2:15 PM):**
+Will mail all checks certified in the future with tracking and pictures.
+
+---
+
+## EMAIL 16: "Question" (NAF default count) — Mar 13, 2026 — **NO RESPONSE**
+
+**Kyle → Christopher (6:01 PM):**
+"If New American Funding files a motion stating default, I have 10 days or something to make the payment before they can take the house? I am confused. I see conflicting language. I see default and them seeking remedy but I also see 3 defaults. Can you please explain."
+
+**⚠️ ZERO RESPONSE. Kyle asked a specific legal question about the cure agreement's default provisions. No reply.**
+
+---
+
+## EMAIL 17: "Monthly bankruptcy payment" — Feb 2, 2026
+
+**Kyle → Ethan, Lisa (9:36 AM):**
+"I missed the January payment. I plan to make the payment on Feb 13th. That is when I get paid again. Even though I get paid $4,000 every other week, I had thousands in car repairs and my paycheck is spent. I also am expected to get a $5,000 bonus in April minus taxes."
+
+**Ethan → Kyle, Lisa (9:48 AM):**
+"That will be fine for the payment. When you receive your bonus, do not spend it, and we can explore options at that time."
+
+**⚠️ NOTE: Ethan told Kyle not to spend the April bonus. Per plan terms, trustee may claim net of bonuses.**
+
+---
+
+## EMAIL 18: "Chapter 13 payments" — Dec 15-17, 2025
+
+**Kyle → Lisa (Dec 15, 11:06 AM):**
+"Is it possible to check if I'm current and haven't missed any plan payments?"
+
+**Lisa → Kyle (Dec 16, 11:44 AM):**
+"The Trustee site shows you are current through November 2025. December 2025 payment is due before the end of the month."
+
+**⚠️ CONFIRMED: Kyle was current on trustee payments through November 2025.**
+
+---
+
+## EMAIL 19: "Selling Van" — Jan 26-28, 2026
+
+**Kyle → Lisa, Ethan (Jan 26, 12:25 PM):**
+"I mentioned not too long ago I was going to sell my van but backed out. This time I do intend to sell it."
+
+**Lisa → Kyle, Ethan (Jan 28, 9:10 AM):**
+"It is fine to sell the 2017 Toyota Sienna and pay off the complete balance of the Affinity Plus CU loan. Please send us a copy of the completed sales paperwork and the Affinity Plus CU paid in full receipt. We will have to modify your plan to show you no longer have the vehicle or that expense of the loan in the budget. Do you plan on getting another vehicle with a loan?"
+
+**Kyle → Lisa, Ethan (Jan 28, 11:12 AM):**
+"I actually cannot sell it. My other vehicle broke down for the second time and it would be stupid for me to sell it. I guess it is like my most valuable possession."
+
+**Lisa → Kyle (Jan 28, 3:36 PM):**
+"No problem, sorry to hear about your other vehicle."
+
+---
+
+## UNANSWERED EMAILS TALLY (Walker & Walker did not respond):
+
+1. "Refile" — Mar 7 (4 emails about dismiss/refile/plan modification) — **NO RESPONSE**
+2. "Another question" — Mar 10 (asking CJ for help because Lisa/Ethan not responding) — **NO RESPONSE**
+3. "Question" — Mar 13 (asking about NAF default provisions) — **NO RESPONSE**
+4. "Payment not taken" — Mar 13 — **status unknown, need to read**
+
+**Pattern: Between March 7-13, 2026, Kyle sent at least 7 emails asking critical questions about his case. Walker & Walker responded to NONE of them. Three days later, Hillary died.**
