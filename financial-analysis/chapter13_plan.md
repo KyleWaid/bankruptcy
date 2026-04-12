@@ -1,0 +1,149 @@
+# Chapter 13 Plan Analysis
+## Case 24-32819 — Local Form 3015-1
+
+**Last Updated: April 12, 2026**
+
+---
+
+## CASE FILING DETAILS
+
+| Detail | Value |
+|--------|-------|
+| Case Number | 24-32819 — WJF |
+| Date Filed | 10/29/2024 |
+| Chapter | 13 |
+| Debtor | Kyle Andrew Waid |
+| Attorney | Andrew C. Walker, Bar #0395250 |
+| Trustee | Gregory A. Burrell |
+| 341 Meeting | 11/26/2024, 10:20-10:30 AM via Zoom |
+| First Payment Due | November 28, 2024 |
+
+---
+
+## PLAN PAYMENT STRUCTURE
+
+| Period | Monthly Payment |
+|--------|----------------|
+| Months 1-2 | $4,757.20 |
+| Total plan value | $47,572.00 |
+
+**NOTE:** Plan payments are supposed to increase after Toyota Sienna loan completes (~March 2026 per plan). Need to determine what the stepped-up payment is.
+
+---
+
+## DEBTS IN THE PLAN
+
+### Part 7 — Priority Claims
+| Creditor | Amount | Monthly Pmt | Interest |
+|----------|--------|-------------|----------|
+| Affinity Plus FCU (Toyota Sienna) | $2,000 | $80.46 | 0% |
+| Dakota County | $811.00 | varies | 0% |
+| MN Dept of Revenue (filed later) | $2,481.50 | pro rata | 0% |
+
+### Part 8 — Secured Claims (Cramdown §1325(a)(5))
+| Creditor | Collateral | Claim Amount | Monthly Pmt | Interest Rate | Total to be Paid |
+|----------|-----------|-------------|-------------|---------------|-----------------|
+| Affinity Plus FCU | 2019 Jeep Grand Cherokee | $28,000 | $518 | 8% | ~$14,800+ |
+
+### Part 9 — Claims on Primary Residence
+| Creditor | Type | Arrears | Monthly Cure | Ongoing Mortgage |
+|----------|------|---------|-------------|-----------------|
+| New American Funding LLC | Mortgage | $8,000 | $145.46 | Paid directly by debtor |
+
+### Part 10 — Secured Claims Paid Directly by Debtor
+- Mortgage to New American Funding paid directly (not through trustee)
+
+### Part 11 — Domestic Support Obligations
+- **$0** — None
+
+### Part 12 — Separate Classes of Unsecured Claims
+- None listed
+
+### Part 13 — Timely Filed Unsecured Claims
+- Total unsecured claims: **$74,191.00**
+- Estimated pro rata payout: ~$16,711 (~22.5%)
+
+---
+
+## MONTHLY PAYMENT BREAKDOWN (Estimated from Plan)
+
+| Component | Monthly Amount |
+|-----------|---------------|
+| Trustee payment | ~$600 (per TFS records) |
+| Mortgage (New American Funding) | ~$2,105.17 (paid directly) |
+| Toyota Sienna (double payment) | ~$928 (paid directly to Affinity Plus) |
+| Jeep Cherokee (through plan + direct?) | ~$518 (through plan) + additional direct? |
+| **Approximate total monthly obligations** | **~$4,151+** |
+
+**NOTE:** The $600/month TFS payment doesn't match the $4,757.20 plan payment for months 1-2. Need to understand: is $600 the actual confirmed plan payment, or is the plan payment higher and Kyle is underpaying? This is a critical question.
+
+---
+
+## NEW AMERICAN FUNDING — MORTGAGE DETAILS
+
+### Relief from Stay Agreement (Court-approved)
+- **Mortgage delinquent: $11,877.07**
+- Period: October 1, 2025 – February 1, 2026
+- 5 missed payments @ $2,105.17 = $10,525.85
+- Less partial payments in suspense: ($197.78)
+- Attorney fees and costs: $1,549.00
+
+### Cure Agreement Terms
+1. Pay $2,000 by February 3, 2026 (certified funds) to New American Funding, PO Box 170581, Austin TX 78717
+2. Pay remaining $9,877.07 starting March 15, 2026:
+   - $1,097.45/month through October 15, 2026
+   - Final payment on or before November 15, 2026: $1,097.47
+3. Resume regular monthly mortgage payment of $2,105.17 commencing March 1, 2026
+4. **If debtor fails: New American Funding can seek relief from stay and file Notice of Default**
+
+### Monthly Mortgage Obligation Going Forward
+- Regular mortgage: $2,105.17/month
+- Arrears cure: $1,097.45/month (through Nov 2026)
+- **Total mortgage-related: $3,202.62/month until Nov 2026**
+
+---
+
+## PLAN NONSTANDARD PROVISIONS (Part 15-16)
+
+1. **IRS/MN Revenue claims (§1305)** — taxes that become payable during the plan are treated per §1305
+2. **Post-petition consumer debt** — requires court/trustee approval under §1305
+3. **Property taxes** — paid directly by debtor or mortgage servicer outside of plan
+4. **Surrender/Relief From Stay** — provision exists but nothing currently listed for surrender
+5. **Tax Refunds** — Debtor keeps first $2,000 of joint refunds. Balance to trustee. EIC and Working Family Credits retained by debtor.
+6. **Vehicle Loan Step-Up** — Plan payments increase upon completion of Toyota Sienna loan (~March 2026). The freed-up payment amount should flow to the plan.
+
+---
+
+## SUMMARY OF ALL MONTHLY OBLIGATIONS (Current, Post-March 2026)
+
+| Obligation | Monthly Amount | Paid To |
+|-----------|---------------|---------|
+| Trustee plan payment | $600 | Gregory A. Burrell via TFS |
+| Mortgage (regular) | $2,105.17 | New American Funding (direct) |
+| Mortgage arrears cure | $1,097.45 | New American Funding (direct, thru Nov 2026) |
+| Toyota Sienna | ~$464 × 2 = ~$928 | Affinity Plus (direct, double payments) |
+| Jeep Cherokee | Included in plan? + direct? | Affinity Plus / Trustee |
+| **Estimated total** | **$4,730+/month** | |
+
+### Against Estimated Take-Home Pay
+- Gross salary: $145,000/year = ~$12,083/month
+- Estimated net after taxes (~30%): ~$8,458/month
+- Monthly obligations: ~$4,730+
+- **Remaining for all other living expenses: ~$3,728/month for family of 4**
+- This does NOT include: food, utilities, insurance, gas, childcare, clothing, medical
+
+---
+
+## CRITICAL QUESTIONS FROM THE PLAN
+
+1. **Is Kyle actually paying $600/month to trustee or should he be paying $4,757.20?** The TFS dashboard shows $600 payments and $9,600 total paid. If the plan requires $4,757.20/month, he is severely underpaying.
+
+2. **The mortgage is 5 months behind ($11,877.07).** The cure agreement requires $3,202.62/month total mortgage payments through November 2026. Can he afford this on top of everything else?
+
+3. **Toyota Sienna should be paid off ~March 2026 per plan.** Is it? The vehicle statement shows $2,267 balance as of 4/10/2026. Double payments should have accelerated payoff.
+
+4. **When Toyota is paid off, where does that ~$928/month go?** Plan says it increases plan payments. But with the mortgage arrears cure also needed, there's a conflict.
+
+5. **$74,191 in unsecured debt** — what are these debts? Credit cards? Medical? Personal loans?
+
+6. **Dakota County $811 priority claim** — is this property tax? On what property?
