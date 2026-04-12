@@ -277,3 +277,66 @@ See OPEN_QUESTIONS.md for the full list. Key unknowns:
   - Student loans generally not dischargeable
   - Financial Management Course required ($15 through their company)
   - Walker & Walker address: 4356 Nicollet Avenue South, Minneapolis MN 55409
+
+---
+
+## UPDATE — April 12, 2026 (Late Night Session)
+
+### HILLARY'S IMPACT ON HOUSEHOLD — DOCUMENTED
+
+#### What Hillary Did NOT Do:
+- Did not work — listed as Homemaker on all tax returns 2021-2024
+- Did not clean the house — took multiple people to clean after her death
+- Did not wash clothes
+- Did not help with grocery shopping — Kyle had to guess what to buy
+- Did not cook — Kyle too tired/inexperienced, had to buy restaurant food
+- Did not help manage household finances
+- Did not participate in household management in any meaningful way
+- Sat and watched TV
+- Drank alcohol (Total Wine purchases documented on bank statements)
+- Alcoholism was documented and ongoing
+
+#### What Kyle Did (SOLE functioning adult):
+- Worked full-time ($145-150k salary)
+- Sole income earner throughout marriage
+- All grocery shopping
+- All cleaning
+- All laundry
+- All childcare coordination
+- All cooking (or buying prepared food when too exhausted)
+- All financial management
+- All communication with attorneys, creditors, trustee
+- Commuted Eagan to Eden Prairie (3+ days/week, $60-80/week in gas)
+
+#### Hillary's Expenses Kyle Was Forced to Pay:
+- Medications: at least $45/month out of pocket
+- Doctor appointments: at least 7 at $35 each = $245+
+- Her alcohol purchases (Total Wine, visible on bank statements)
+- All household expenses — food, utilities, clothing for her
+
+#### Hillary's Medical Debt — NEW ISSUE:
+- **Over $30,000 in medical bills** in Hillary's name
+- Kyle does not yet have access to her records/data
+- Under Minnesota law, spouse may be liable for medical debt incurred during marriage
+- Walker & Walker's own onboarding document states: "If you are married and your spouse is not joining the bankruptcy, the spouse still owes any medical debts for medical services that happened while you were married"
+- This $30,000 is NOT in the current bankruptcy plan
+- Creditors may come after Kyle for this debt
+- This needs to be addressed by attorney — potentially added to modified plan
+
+#### The Reality of the Chapter 13 Plan:
+- Plan was built as if there were two functioning adults in the household
+- There was always only ONE — Kyle
+- Every expense, every errand, every responsibility was his alone
+- Hillary's presence in the household was a net financial DRAIN, not a contribution
+- Her death does not reduce household income (she had none)
+- Her death DOES reduce: medication costs, alcohol spending, her food/clothing costs
+- Her death INCREASES: childcare needs, Kyle's emotional/logistical burden, potential medical debt liability
+- The plan's expense calculations never reflected the reality that Kyle was a solo parent in a two-parent household
+
+#### Current Additional Costs Not in Original Plan:
+- Commute: $60-80/week ($240-320/month) — went from hybrid to full-time in office
+- Restaurant/prepared food: ongoing (exhaustion from solo parenting)
+- Inflation on food and gas: estimated 30% higher than at time of filing
+- Mortgage cure agreement: $1,097.45/month additional (not in original plan)
+- NAF proposed escrow increase: $300+/month additional
+- Hillary's $30,000 medical debt: unknown monthly impact, not yet in plan
