@@ -340,3 +340,26 @@ See OPEN_QUESTIONS.md for the full list. Key unknowns:
 - Mortgage cure agreement: $1,097.45/month additional (not in original plan)
 - NAF proposed escrow increase: $300+/month additional
 - Hillary's $30,000 medical debt: unknown monthly impact, not yet in plan
+
+### MINNESOTA DEBT FAIRNESS ACT — HILLARY'S $30,000 MEDICAL DEBT
+
+**Effective October 1, 2024** — the Minnesota Debt Fairness Act (Minn. Stat. §519.05 amended):
+- **Spouses CANNOT be forced to pay each other's medical debt — in life or in death**
+- Eliminates the old law that automatically transferred medical debt to a patient's spouse
+- Medical debt CANNOT be reported to credit reporting agencies
+- Medical providers CANNOT withhold medically necessary care due to unpaid debt
+- Collectors CANNOT use robo dialers, threaten withheld services, or contact third parties
+
+**Impact on Kyle's case:**
+- Hillary's ~$30,000 in medical debt is NOT Kyle's responsibility
+- He did not co-sign or guarantee any of it
+- The law took effect October 1, 2024 — 28 days BEFORE his bankruptcy was filed (10/29/24)
+- Creditors cannot pursue Kyle for Hillary's medical bills
+- This debt does NOT need to be added to the bankruptcy plan
+
+**NOTE:** Walker & Walker's onboarding document (signed at filing) states: "If you are married and your spouse is not joining the bankruptcy, the spouse still owes any medical debts for medical services that happened while you were married." This statement was INCORRECT as of October 1, 2024, when the Debt Fairness Act eliminated spousal medical debt liability. The onboarding document was not updated to reflect the new law.
+
+Sources:
+- AG Ellison: ag.state.mn.us/Office/Communications/2024/10/02_DebtFairnessAct.asp
+- Mid-Minnesota Legal Aid: mylegalaid.org/news-stories/debt-fairness-act-outlines-changes-you-should-know-about/
+- KARE11: kare11.com (Medical Debt Fairness Act article)
