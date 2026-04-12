@@ -147,3 +147,48 @@
 5. **$74,191 in unsecured debt** — what are these debts? Credit cards? Medical? Personal loans?
 
 6. **Dakota County $811 priority claim** — is this property tax? On what property?
+
+---
+
+## NEW AMERICAN FUNDING — FULL MORTGAGE DETAILS (From Statements)
+
+### Loan Details
+| Detail | Value |
+|--------|-------|
+| Loan Number | 3000491534 |
+| Property | 3922 Boston Cir, Saint Paul MN 55123 |
+| Outstanding Principal | $276,749.16 |
+| Interest Rate | 7.625% |
+| Loan Type | FHA |
+| Prepayment Penalty | No |
+| Escrow Balance | -$7,738.16 (DEFICIT) |
+
+### Monthly Payment (as of Dec 2024)
+| Component | Amount |
+|-----------|--------|
+| Principal & Interest | $1,230.32 |
+| Regular Escrow | $874.85 |
+| Escrow Shortage Repayment | $46.45 |
+| **Total Monthly** | **$2,151.62** |
+
+### Escrow Covers
+- County property tax 1st: $2,395/year
+- County property tax 2nd: $2,385/year
+- FHA mortgage insurance: $2,355.22/year
+- Hazard insurance: $3,172.48/year
+- **Total annual escrow: $10,498.20**
+
+### Post-Petition Delinquency (as of March 2026 statement)
+- Total post-petition payment amount: $14,729.69
+- Past unpaid (since 12/01/2025): $10,628.56
+- Regular monthly payment: $2,841.11
+- Total fees and charges: $3,260.00
+
+### Bounced Payments (March 2026 — Week of Hillary's Death)
+- 03/09/2026: $2,105.17 returned — "NO A/C UNABLE TO LOCATE" + $20 fee
+- 03/12/2026: $2,105.17 returned — "NO A/C UNABLE TO LOCATE" + $20 fee
+
+### Pre-Petition Arrearages (Filed with Court)
+- Claim filed: $2,858.38
+- Paid during bankruptcy: $3,416.06
+- Current balance on arrears: -$7,211.11
