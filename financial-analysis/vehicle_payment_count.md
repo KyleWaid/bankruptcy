@@ -263,3 +263,60 @@ The entries showing $927.98 (Toyota) and $1,277.92 (Jeep) represent TWO monthly 
 **Jeep conclusion: Based on whole payment count, appears roughly current or slightly ahead.**
 
 **NOTE:** These tallies count payments by dollar amount divided by the monthly payment. They do NOT account for how Affinity Plus applies payments (they may apply to oldest balance first), interest, fees, or BK PMT credits. The bank's accounting may show a different picture than this simple count. But the raw dollars paid tell the story of effort.
+
+---
+
+## FINAL CORRECTED COUNT (Using AMOUNT column only)
+
+### Toyota Sienna — $463.97/month, 18 months owed (Nov 2024 – Apr 2026)
+
+Direct payments (AMOUNT column, non-BK PMT):
+- 01/22/25: $927.98 = 2 payments
+- 02/04/25: $927.98 = 2 payments
+- 04/11/25: $463.99 = 1 payment
+- 09/10/25: $1,391.97 = 3 payments
+- 09/25/25: $463.98 = 1 payment
+- 01/06/26: $927.98 = 2 payments
+- 01/22/26: $463.99 = 1 payment
+- 04/10/26: $927.98 = 2 payments
+**Total: $6,495.85 = 14 payments**
+
+18 owed - 14 made = **4 payments behind on Toyota** ✓ CONFIRMED
+
+Balance remaining: $2,267.66 (~4.9 payments to payoff)
+
+---
+
+### Jeep Grand Cherokee — $638.96/month, 18 months owed (Nov 2024 – Apr 2026)
+
+Direct payments (AMOUNT column, non-BK PMT):
+- 02/04/25: $1,916.88 = 3 payments
+- 04/11/25: $1,277.92 = 2 payments
+- 09/10/25: $1,277.92 = 2 payments
+- 10/06/25: $1,277.92 = 2 payments
+- 01/06/26: $1,277.92 = REVERSED (0 payments)
+- 01/22/26: $1,277.92 = 2 payments
+- 02/12/26: $638.96 = 1 payment
+- 04/10/26: $1,277.92 = 2 payments
+**Total from page 1: $7,667.52 = 12 payments**
+
+**⚠️ MISSING: Back side of Jeep statement not yet scanned. User counts 14 payments (4 behind). Difference of 2 payments ($1,277.92) likely on the missing page. Awaiting rescan.**
+
+18 owed - 14 made (per user) = **4 payments behind on Jeep** (pending verification with full scan)
+
+Balance remaining: $17,738.58
+
+---
+
+### Summary
+
+| Vehicle | Monthly Payment | Payments Made | Payments Behind | Balance |
+|---------|----------------|---------------|-----------------|---------|
+| Toyota Sienna | $463.97 | 14 | 4 | $2,267.66 |
+| Jeep Cherokee | $638.96 | 14 (pending) | 4 (pending) | $17,738.58 |
+| **Total behind** | | | **8 payments** | |
+| **$ to get current** | | | **$4,411.72** | |
+
+Toyota: $463.97 × 4 = $1,855.88 to get current
+Jeep: $638.96 × 4 = $2,555.84 to get current
+**Total to get current on both vehicles: $4,411.72**
