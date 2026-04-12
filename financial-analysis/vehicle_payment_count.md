@@ -320,3 +320,32 @@ Balance remaining: $17,738.58
 Toyota: $463.97 × 4 = $1,855.88 to get current
 Jeep: $638.96 × 4 = $2,555.84 to get current
 **Total to get current on both vehicles: $4,411.72**
+
+---
+
+## FINAL VERIFIED COUNT (From rescanned documents)
+
+### Jeep Grand Cherokee — CORRECTED
+
+Direct payments (AMOUNT column, non-BK PMT):
+- 02/04/25: $1,916.88 = 3 payments
+- 04/11/25: $1,277.92 = 2 payments
+- 09/10/25: $1,277.92 = 2 payments
+- 09/26/25: $1,277.92 = 2 payments (was previously uncertain — confirmed CHECK not BK PMT)
+- 01/06/26: $1,277.92 = REVERSED/NSF (0 payments)
+- 01/12/26: $1,277.92 = 2 payments
+- 01/12/26: $638.96 = 1 payment
+- 04/10/26: $1,277.92 = 2 payments
+**Total: $8,945.44 ÷ $638.96 = 14 payments exactly**
+
+18 owed - 14 made = **4 payments behind on Jeep** ✓ CONFIRMED
+
+### BOTH VEHICLES CONFIRMED:
+
+| Vehicle | Monthly | Payments Made | Behind | $ to Current | Balance |
+|---------|---------|---------------|--------|-------------|---------|
+| Toyota Sienna | $463.97 | 14 | **4** | $1,855.88 | $2,267.68 |
+| Jeep Cherokee | $638.96 | 14 | **4** | $2,555.84 | $17,738.58 |
+| **Total** | | **28** | **8** | **$4,411.72** | **$20,006.26** |
+
+Previous error: I was missing the 09/26/25 Jeep check payment of $1,277.92 (2 payments) which I had incorrectly categorized. Rescanned documents confirmed it.
