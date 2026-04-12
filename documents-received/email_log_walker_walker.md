@@ -351,3 +351,106 @@ Will mail all checks certified in the future with tracking and pictures.
 4. "Payment not taken" — Mar 13 — **status unknown, need to read**
 
 **Pattern: Between March 7-13, 2026, Kyle sent at least 7 emails asking critical questions about his case. Walker & Walker responded to NONE of them. Three days later, Hillary died.**
+
+---
+
+## ADDITIONAL EMAILS CAPTURED (From full search results text)
+
+### EMAIL 20: "Employment bonus payment received" — Feb 9, 2026
+**Kyle → Lisa (Feb 9):**
+"Today I received unexpectedly my bonus early. Attached is a PDF copy of the paystub. The amount of the bonus was $5,000, however I only received [~$3,100 after taxes]."
+*Attachment: EEPayrollPayCheckDetail.pdf*
+
+⚠️ Per plan terms (Part 15), trustee may claim net of bonuses. Ethan previously said "do not spend it."
+
+### EMAIL 21: "Sale of vehicle" — Nov 6, 2025
+**Ethan → Kyle (Nov 6, 8:41 AM):**
+"You can sell the van. Just work directly with Affinity to..."
+*First of two times Kyle attempted to sell the Toyota Sienna. Backed out both times.*
+
+### EMAIL 22: "3922 Boston Cir" — Mar 9, 2026 (Kyle → NAF directly)
+**Kyle → NAF:**
+"Hello, I have been trying since Monday of last week to get you to accept my payment. I have a court document agreed to by your company legal team to..."
+*Attachments: screenshots of payment attempts + court document (cure agreement)*
+*Kyle emailed NAF directly with proof of payment attempts after phone payments kept being rejected.*
+
+### EMAIL 23: "Jenny" forwarding Trustee Burrell letter — Sep 17, 2025
+**Jenny (Walker & Walker) → Kyle:**
+"The letter is attached to this email. It is just for information. You don't have to do anything because of it."
+*Attachment: Nothing_Further_Required___2024___2432819__waid.pdf*
+*Trustee Burrell sent a letter saying nothing further required — case was in good standing as of Sept 2025.*
+
+### EMAIL 24: "State tax refund" — Sep 22, 2025
+**Lisa → Kyle:**
+"If you haven't please send them to annie@bankruptcytruth.com and we can forward them to the Trustee. The Trustee will then look at the refunds to..."
+*Kyle sent 2024 tax return to Walker & Walker for trustee.*
+
+### EMAIL 25: "Payment not taken" — Mar 13, 2026
+**Kyle (to self/NAF?):**
+"I will wait until Tuesday morning and just send them a check. I do not know what else to do. I will mail the certified funds check today."
+*Kyle giving up on phone payments to NAF and switching to mailing checks.*
+
+### EMAIL 26: "Paperwork?" — Feb 4, 2026 (31 messages with Christopher)
+*This is the massive thread about the NAF cure agreement paperwork. Contains Draft AO (3).pdf — likely the draft Agreed Order for the cure agreement.*
+
+### EMAIL 27: "Additional Mortgage question" — Aug 4, 2025
+**Kyle → Walker & Walker:**
+"I called New American Funding, my mortgage servicer. I confirmed that $18,000 is an amount they are recording as past due. I have records of all of my..."
+*With screenshots showing NAF's billing. Kyle flagged the $18,000 false billing to his attorney in AUGUST 2025 — months before NAF filed the relief from stay motion.*
+
+### EMAIL 28: "Action Required: Send Us Your Bankruptcy Paperwork" — Oct 6 & Oct 21, 2024
+*Pre-filing paperwork requests from Lisa Falk. Standard intake.*
+
+### EMAIL 29: "More documents" — Oct 6, 2024
+**Kyle → Lisa:**
+"Here is my 2021, 2022, and 2023 Tax return signed in blue ink, both federal and state. 2021 I am mailing tomorrow, all other years were..."
+*With attachments: tax returns + Wells Fargo bank statements*
+
+### EMAIL 30: "Updated documents" — Nov 6, 2024
+**Kyle → Lisa, Annie:**
+"Here are several documents. 1. Front and back of social security card. 2. Both paystubs currently available for October. 3."
+*Attachment: Creditors listed at date of filing.pdf — THIS IS THE CREDITOR LIST*
+
+### EMAIL 31: "Question about returned TFS payment" — Oct 16, 2025
+*Kyle had a TFS payment returned. Lisa said glad it was rescheduled.*
+
+---
+
+## COMPLETE EMAIL INVENTORY
+
+**Total emails/threads identified: 31+**
+**Total from Walker & Walker (responses): ~15-18**
+**Total from Kyle (sent): ~40+**
+**Unanswered by Walker & Walker: At least 7 (March 7-13, 2026 period)**
+
+### Key Attachments NOT YET Opened:
+1. IRS claim with the bankruptcy court.pdf (from Tax/family death thread)
+2. Documentdoc-11438278.pdf (from Behind on payments thread)
+3. Claim9-10764645.pdf (from Behind on payments thread)
+4. mortgage_statement.pdf (from Behind on payments thread)
+5. Draft AO (3).pdf (from Paperwork? thread — cure agreement draft)
+6. Document35-14928196.pdf (from Question thread — NAF cure agreement)
+7. Tax.pdf (from IRS notice thread)
+8. Nothing_Further_Required___2024___2432819__waid.pdf (from Jenny/trustee letter)
+9. EEPayrollPayCheckDetail.pdf (bonus paystub)
+10. Creditors listed at date of filing.pdf (creditor list!)
+11. Statement (BK13).pdf (from NAF foreclosure thread)
+
+---
+
+## WALKER & WALKER STAFF IDENTIFIED
+
+| Name | Role | Email |
+|------|------|-------|
+| Andrew C. Walker | Attorney, Bar #0395250 | (unknown — CC'd on trustee letters) |
+| Christopher "CJ" Schoenbauer | Attorney | christophers@bankruptcytruth.com |
+| Ethan J. Mustonen | Attorney, Partner | ethan@bankruptcytruth.com |
+| Lisa A. Falk | Chapter 13 Paralegal | lisa@bankruptcytruth.com |
+| Annie Mena | Staff (tax return forwarding) | annie@bankruptcytruth.com |
+| Jenny | Staff (letter forwarding) | jenny@bankruptcytruth.com |
+| Andrew (signature pages) | Staff | andrew@bankruptcytruth.com |
+
+### Walker & Walker Office Locations:
+- 4356 Nicollet Ave S, Minneapolis MN 55409 (main)
+- 607 County Road 10 NE, Ste 204, Blaine MN 55434
+- 7240 Brooklyn Blvd, Ste 210, Brooklyn Park MN 55429
