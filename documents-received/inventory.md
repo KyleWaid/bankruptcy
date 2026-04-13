@@ -75,3 +75,17 @@
 - Returns appear to be the actual filed copies (include 8879 e-file authorization)
 - User states all documentation/stubs used were "legitimate and proven"
 - User states he "never did anything myself" — all CPA-prepared
+
+---
+
+## DOCUMENTS ADDED — April 13, 2026
+
+| # | Document | Source | Key Content |
+|---|----------|--------|-------------|
+| 7 | Court Order Doc 35 (Cure Agreement) | Document35-14928196.pdf | NAF cure agreement signed by Judge Fisher 02/04/26. 3 defaults allowed, 4th = automatic stay lift. 10 days to cure each default. Judge added 3 business days notice requirement. |
+| 8 | IRS Proof of Claim (Amendment 1) | IRS claim with the bankruptcy court.pdf | Claim 6, filed 01/08/25. Shows 2021=$0, 2022=$8,540.10, 2023=$0. Footnote: "RETURN RECEIVED THAT IS NOT YET ASSESSED." Contact: Dwanyetta Brazil, 314-339-1535, dwanyetta.n.brazil@irs.gov |
+| 9 | Tax/family death email thread (PDF) | gekko tek Mail - Tax_family death.pdf | Complete 6-message thread Apr 8-10, 2026. Kyle→Lisa about Hillary's death + IRS. Lisa's response re: IRS claim. |
+| 10 | 401(k) Transaction History | TransactionHistoryPrint.pdf | ADP/MyKPlan Apr 1-10, 2026. Balance $24,761.34, loan $3,891.80, $15,950 employer contribution, $4,649 withdrawal on 4/9/26. |
+| 11 | 401(k) Checks Issued | Checks Issued.pdf | Complete withdrawal history: 1 loan ($6,000) + 5 hardship withdrawals ($21,627.60) = $27,627.60 total taken from retirement. |
+| 12 | Hardship Withdrawal HR Confirmation | Screenshot (email) | Mary Rae Kim (HR, 2nd Swing) confirmed receipt of hardship proof 04/08/26. Kyle proactively provided documentation. |
+| 13 | NAF Monthly Statements (17 months) | New American Funding Statements.zip | Oct 2024 — Apr 2026. Interest rate CONFIRMED 2.625% (not 7.625%). Escrow deficit grew from -$62 to -$8,422. |
