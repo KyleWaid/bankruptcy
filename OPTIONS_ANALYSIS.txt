@@ -91,3 +91,47 @@ OR the statement format is misleading. The actual note rate needs to be confirme
 from the original mortgage note/closing documents.
 
 Regardless — if Kyle's rate is anywhere near 2.5%, refinancing is off the table.
+
+---
+
+## STABILITY PLAN — Best Path Forward (Updated April 13, 2026)
+
+### Best Option: Plan Modification Under §1329
+
+**Current Monthly Obligations: $4,905**
+- Trustee: $600
+- Mortgage (direct): $2,105
+- Cure agreement (direct): $1,097
+- Toyota (direct): $464
+- Jeep (direct): $639
+
+**After Modification: ~$3,544-3,744**
+- Trustee (increased): $800-1,000
+- Mortgage (direct): $2,105
+- Cure agreement: $0 (rolled into plan)
+- Toyota: $0 (paid off soon, 5 payments left)
+- Jeep (direct): $639
+- **Savings: $1,100-1,300/month**
+
+### Jeep Sale Analysis:
+- Equity: ~$1,261 (break even)
+- Would eliminate $639/month
+- BUT trustee could capture $639 as new disposable income
+- Risk: lose vehicle AND payment goes up
+- DO NOT sell without attorney guidance on whether savings stay with you
+
+### Chapter 7 Probability: 15-20%
+- Income $150k too high — above median
+- Means test shows ~$3,001/month disposable income
+- Special circumstances exception possible but gap too large
+- Chapter 13 modification is the better path
+
+### Action Steps (Prioritized):
+1. Complete Financial Management Course — today ($15, 13class.com)
+2. File 2025 taxes — this week (before trustee dismissal threat)
+3. New attorney — this week
+4. Plan modification filed — within 2 weeks of new attorney
+5. Pay off Toyota — 5 months
+6. IRS §505(a) motion — through new attorney
+7. CFPB complaint against NAF — free, do yourself
+8. Challenge NAF escrow/fees — through new attorney
