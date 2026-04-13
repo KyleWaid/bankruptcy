@@ -152,7 +152,9 @@ This is why:
 
 **Kyle is NOT irresponsible with money. Kyle is UNDERWATER.**
 
-The difference matters. An irresponsible spender buys things they don't need. Kyle's spending is:
+**There are no extravagant expenses.** No vacations. No luxury purchases. No expensive hobbies. No gambling. No designer anything. No entertainment beyond basics. He drives a 2017 minivan and a 2019 Jeep — practical family vehicles, not status symbols.
+
+The difference between "frivolous" and "extravagant" matters. Some spending (DoorDash, restaurant food) may look frivolous on paper — but for a single parent working full-time with no help cooking, shopping, or managing a household, it's not pointless waste. It's the cost of being one person doing a two-person job. Kyle's spending is:
 - Food for his family (high, but he's the only one shopping/cooking for 4-5 people)
 - Gas to get to work
 - Utilities to keep the lights on
