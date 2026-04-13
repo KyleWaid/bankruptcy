@@ -394,3 +394,49 @@ This statement was INCORRECT as of October 1, 2024 when the Debt Fairness Act el
 - KARE11 reporting
 - Holt Law analysis (djholtlaw.com)
 - Lewis Kannegieter Law (lewisklaw.com)
+
+---
+
+## CRITICAL CORRECTION — Mortgage Interest Rate
+
+**Interest Rate: 2.625% — NOT 7.625% as previously reported**
+
+Every NAF statement (17 months of PDFs) confirms Interest Rate: 2.625%.
+The 7.625% was misread from an image. This is a pandemic-era rate.
+Refinancing is off the table — this rate is irreplaceable.
+
+## NAF Statement Data (17 Months of PDFs Extracted)
+
+| Statement Date | Outstanding Principal | Escrow Balance | Interest Rate | Regular Monthly | Past Unpaid | Total Due |
+|---------------|----------------------|----------------|---------------|----------------|-------------|-----------|
+| Oct 16, 2024 | $284,142.79 | -$1,280.91 | 2.625% | $2,174.84 | $8,697.67 | $10,872.51 |
+| Nov 13, 2024 | $283,534.03 | -$613.60 | 2.625% | $2,105.17 | $2,105.17 | $4,210.34 |
+| Dec 9, 2024 | $283,534.03 | -$809.91 | 2.625% | $2,105.17 | $4,210.34 | $6,315.51 |
+| Jan 8, 2025 | $282,923.94 | -$61.70 | 2.625% | $2,105.17 | $6,315.51 | $8,420.68 |
+| Feb 10, 2025 | $282,923.94 | -$4,361.56 | 2.625% | $2,105.17 | $8,420.68 | $10,525.85 |
+| Mar 7, 2025 | $282,312.52 | -$3,613.35 | 2.625% | $2,105.17 | $10,525.85 | $12,631.02 |
+| May 7, 2025 | $281,085.66 | -$4,912.42 | 2.625% | $2,105.17 | $12,631.02 | $15,996.19 |
+| Jun 9, 2025 | $280,470.21 | -$4,228.70 | 2.625% | $2,105.17 | $12,631.02 | $15,996.19 |
+| Jul 7, 2025 | $280,470.21 | -$4,419.83 | 2.625% | $2,105.17 | $14,736.19 | $18,101.36 |
+| Oct 8, 2025 | $277,994.94 | -$4,224.82 | 2.625% | $2,105.17 | $4,210.34 | $7,575.51 |
+| Nov 7, 2025 | $277,994.94 | -$4,415.95 | 2.625% | $2,105.17 | $6,315.51 | $9,680.68 |
+| Dec 10, 2025 | $277,372.73 | -$3,732.23 | 2.625% | $2,841.13 | $6,315.51 | $10,416.64 |
+| Jan 10, 2026 | $277,372.73 | -$3,923.36 | 2.625% | $2,841.13 | $9,156.64 | $13,257.77 |
+| Feb 11, 2026 | $277,372.73 | -$8,421.88 | 2.625% | $2,841.13 | $11,997.77 | $16,098.90 |
+| Mar 10, 2026 | $276,749.16 | -$7,738.16 | 2.625% | $2,841.13 | $10,628.56 | $14,729.69 |
+| Apr 7, 2026 | $276,124.23 | -$7,054.44 | 2.625% | $2,841.13 | $8,523.39 | $12,624.52 |
+
+### Key Observations from NAF Statements:
+1. Escrow went from -$61.70 (Jan 2025) to -$8,421.88 (Feb 2026) — ballooned by $8,360
+2. Regular monthly payment jumped from $2,105.17 to $2,841.13 (increase of $735.96/month)
+3. The "Past Unpaid Amount" on the July 2025 statement shows $14,736.19 — this is the same number NAF used in their August 6, 2025 email claiming 7 missed payments
+4. Partial payments held in "Unapplied Balance" (suspense) appear starting May 2025
+5. Principal has decreased from $284,142 to $276,124 — reduction of $8,018 over 17 months, proving payments WERE being applied to some extent
+
+### Home Value and Upgrades:
+- Assessed value: $440,900-$450,300
+- Outstanding principal: $276,124
+- Equity: ~$164,000-$174,000
+- $100,000+ in upgrades: new windows, new siding (hardy plank), new roof, new A/C, new furnace, new carpeting
+- Location: cul-de-sac in Eagan MN, area with high demand and desirability
+- Kyle believes NAF sees his house as an opportunity due to the equity and improvements
