@@ -192,3 +192,83 @@
 - Claim filed: $2,858.38
 - Paid during bankruptcy: $3,416.06
 - Current balance on arrears: -$7,211.11
+
+---
+
+## MODIFIED CHAPTER 13 PLAN — Dated 01/14/2025, Confirmed 02/27/2025
+
+### Plan Payment Schedule (STEP-UP):
+| Period | Months | Monthly Payment | Total |
+|--------|--------|----------------|-------|
+| Already paid at plan date | — | — | $1,200.00 |
+| Months 3-16 (01/2025 – 02/2026) | 14 | $600.00 | $8,400.00 |
+| Months 17-60 (03/2026 – 10/2029) | 44 | $863.00 | $37,972.00 |
+| **TOTAL** | | | **$47,572.00** |
+
+**Step-up trigger: Toyota Sienna loan completion (~March 2026)**
+**Minimum plan length: 36 months (below median confirmed)**
+**Trustee fee: up to 10% = $4,757.20**
+
+### Mortgage Arrears (Part 6):
+- New American Funding: $9,354.72 total arrears
+- Payment schedule through trustee:
+  - $135/month × 15 months (02/2025 – 04/2026)
+  - $630/month × 11 months (05/2026 – 03/2027)
+  - $399.72 × 1 month (04/2027)
+
+### Vehicle Arrears (Part 7):
+| Creditor | Arrears | Rate | Monthly | Months | Total |
+|----------|---------|------|---------|--------|-------|
+| Affinity Plus (Jeep) | $2,555.84 | 0% | $135 × 18, then $125.84 | 19 | $2,555.84 |
+| Affinity Plus (Toyota) | $1,855.96 | 0% | $135 × 13, then $100.96 | 14 | $1,855.96 |
+| **Total** | **$4,411.80** | | | | **$4,411.80** |
+
+### Priority Claims (Part 10):
+| Creditor | Amount | Payment |
+|----------|--------|---------|
+| Internal Revenue Service | $8,540.10 | Pro-Rata |
+| Walker & Walker fees | $2,988.00 | $540×3, $135×10, $18×1 |
+| MN Dept of Revenue | $2,481.50 | Pro-Rata |
+| **Total** | **$14,009.60** | |
+
+### Unsecured Claims (Part 13):
+- Estimated total unsecured: **$86,832.37**
+- Pro rata share available: ~$15,038.68 (~17.3% payout)
+
+### Property Tax (Part 5):
+- Dakota County — current, paid directly by debtor/servicer
+- Property: Lot 4, Block 1, Lexington Square 2nd Addition
+
+### Nonstandard Provisions (Part 16):
+1. §1305 claims — IRS/MN Revenue for taxes during plan
+2. Post-petition consumer debt — no court/trustee approval needed
+3. Property taxes paid directly outside plan
+4. Surrender/relief from stay — trustee ceases secured payments, balance becomes unsecured
+5. Tax refunds — keep first $2,000 (joint), balance to trustee. EIC + MN Working Family Credits kept.
+6. **Vehicle loan step-up — plan payments increase when Toyota Sienna paid off (~March 2026)**
+
+### Complete Creditor List (from mailing matrix):
+**Medical:** Children's Minnesota, Children's Respiratory & Critical Care, Emergency Care Consultant, Emergency Physicians Prof Assc, HealthPartners Park Nicollet, Mercy Health Saint Mary's, Midwest ENT-Eagan, Midwest Radiology, The Urgency Room, United Hospital, Drs. North & Watson-Burnsville
+**Credit Cards:** American Express, American Express National Bank (via Zwicker & Associates), Goldman Sachs Bank USA, JPMorgan Chase (2 entries), TD Bank/Target Credit, Veridian Credit Union
+**Collections:** American Accounts & Advisers, CMRE Financial Services, Creditor Advocates, JP Receivables Management, Reliance Recoveries, The Stark Collection Agency
+**Education:** US Department of Education/Nelnet (2 entries)
+**Other:** Bob Boldt HVAC, Culligan Water, NFS Hillary Waid (listed at 3922 Boston Circle)
+**Mortgage:** New American Funding
+**Vehicles:** Affinity Plus Federal Credit Union
+**Government:** IRS, MN Dept of Revenue, Dakota County, US Trustee
+**Employer:** 2nd Swing Golf
+**Attorney:** Walker & Walker Law Offices
+
+### Confirmation Hearing:
+- Date: 02/27/2025 at 10:30 AM (telephonic)
+- Judge: Fisher
+- Access code: 2306 851 4433, security code: 0428
+- Objection deadline: 02/25/2025
+- Signed by: Kyle Andrew Waid (debtor) + Andrew Walker (attorney, Bar #0392525)
+- Served by: Lisa Falk on 01/14/2025
+
+### STEP-UP STATUS (as of April 2026):
+- Toyota not yet paid off ($2,267.66 remaining)
+- Step-up condition not yet triggered
+- Kyle correctly paying $600/month, not $863
+- When Toyota pays off, payment increases to $863 ($263 increase)
