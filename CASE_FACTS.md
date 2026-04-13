@@ -363,3 +363,34 @@ Sources:
 - AG Ellison: ag.state.mn.us/Office/Communications/2024/10/02_DebtFairnessAct.asp
 - Mid-Minnesota Legal Aid: mylegalaid.org/news-stories/debt-fairness-act-outlines-changes-you-should-know-about/
 - KARE11: kare11.com (Medical Debt Fairness Act article)
+
+### CORRECTION — Debt Fairness Act: Verified But With Caveats
+
+**After quadruple-checking multiple sources, the finding is MOSTLY confirmed but with important caveats:**
+
+#### CONFIRMED (High Confidence):
+- Minn. Stat. §519.05 was amended by 2024 c 114 art 3 s 83
+- Current text: "A spouse is not liable to a creditor for any debts of the other spouse"
+- OLD law had language making spouses jointly liable for medical services while living together — that language was REMOVED
+- Effective October 1, 2024
+- AG Ellison's office: "Spouses cannot be forced to pay off each other's medical debt in life or in death"
+
+#### NOT FULLY CONFIRMED (Needs Attorney Verification):
+1. **Retroactivity**: Whether this applies to medical debt Hillary incurred BEFORE October 1, 2024. Some of the $30,000 may have been incurred before the law took effect — old rule (spousal liability) might still apply to those specific debts.
+2. **Estate claims**: Statute says "Nothing in this section prevents a creditor's claim against a decedent's estate." Creditors CAN go after Hillary's ESTATE. But Hillary had no assets, no income = likely no estate to collect from.
+3. **Co-signing**: If Kyle signed any medical intake forms as "responsible party" or guarantor, he may be personally liable on THOSE specific debts regardless of the statute.
+
+#### CONCLUSION:
+Kyle is VERY LIKELY not liable for Hillary's medical debt under the new law. But the answer requires attorney verification on: (1) when debts were incurred, (2) whether Kyle co-signed anything, (3) whether Hillary has any estate.
+
+#### Walker & Walker Onboarding Document Issue:
+Their document signed at filing (10/29/2024) states: "If you are married and your spouse is not joining the bankruptcy, the spouse still owes any medical debts for medical services that happened while you were married."
+This statement was INCORRECT as of October 1, 2024 when the Debt Fairness Act eliminated automatic spousal medical debt liability. The onboarding document was not updated for the new law that took effect 28 days before Kyle's filing.
+
+#### Sources Verified:
+- Minn. Stat. §519.05 (revisor.mn.gov/statutes/cite/519.05)
+- AG Ellison (ag.state.mn.us/Office/Communications/2024/10/02_DebtFairnessAct.asp)
+- Mid-Minnesota Legal Aid (mylegalaid.org)
+- KARE11 reporting
+- Holt Law analysis (djholtlaw.com)
+- Lewis Kannegieter Law (lewisklaw.com)
