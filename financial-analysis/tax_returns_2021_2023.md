@@ -225,3 +225,57 @@
 6. **What happened to Gekko Tek LLC?** You mentioned a state-registered LLC for 2022 that you didn't dissolve or continue.
 7. **Is the home at 3922 Boston Circle still your residence?** Is there a mortgage? Is it in the bankruptcy?
 8. **The Decks Direct employment ($90-129k/year) — is this the same as or related to 2nd Swing?**
+
+---
+
+## TAX RETURN REVIEW — ERROR CHECK
+
+### Issues Found:
+
+1. **2021 Schedule C: $4,730 gap between 1099s and gross receipts**
+   - 1099-NEC total: $15,953
+   - Schedule C gross: $11,223
+   - Explained by: Brandshopper refund of $8,000 (consultant returned money to avoid personal liability lawsuit — no liability insurance)
+   - LEGITIMATE — documented business refund
+
+2. **2022 Schedule C: $80,505 income with no 1099s**
+   - Schedule C gross: $81,705, only $1,200 on 1099-NEC
+   - Income from: consulting through Gekko Tek LLC, multiple clients including marijuana company in CA
+   - Kyle has balance sheet documenting all income sources
+   - Kyle reported income even when clients didn't issue 1099s — honest reporting
+   - LEGITIMATE — but poorly documented by preparer (audit risk)
+
+3. **Business miles identical 2021 and 2022: exactly 1,560 both years**
+   - Different employers, different clients, different work situations
+   - Appears to be copied number, not actual tracked mileage
+   - SLOPPY preparation
+
+4. **2023 refund math off by $41**
+   - Payments $20,283 - Tax $17,784 = $2,499, but refund shown as $2,540
+   - May be due to additional credits not captured in summary
+   - MINOR
+
+### Items That Check Out:
+- QBI deductions within 20% limit all years ✓
+- Child tax credits correct all years ✓
+- Home office simplified method correct ✓
+- Standard deductions correct ✓
+- 2021 expanded CTC ($3,000/child) correct ✓
+
+### Preparer Background — Nina Lyakh:
+- **NOT a CPA** — holds PTIN only (minimum credential, $30.75 fee)
+- Not an Enrolled Agent, not AFSP compliant
+- Primary career: real estate broker (Coldwell Banker)
+- Tax office address = her Coldwell Banker real estate office
+- Firm (Preferred Accountability) is very new — BBB file opened Dec 2023
+- Previously worked at Prepare + Prosper (free tax prep nonprofit)
+- Uses Gmail for business handling SSNs and financial documents
+- CANNOT represent Kyle before IRS in audits/appeals/collections
+- Calls herself "Accountant" on real estate profile despite no CPA license
+
+### Bottom Line:
+- Returns are not riddled with errors
+- The numbers are defensible IF Kyle has supporting documentation (he says he does)
+- Nina lacks the credentials to handle the IRS refund fight
+- For 2025 filing: Nina can handle a simple W-2 return
+- For the IRS dispute: need an Enrolled Agent or actual CPA
