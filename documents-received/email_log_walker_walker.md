@@ -454,3 +454,33 @@ Will mail all checks certified in the future with tracking and pictures.
 - 4356 Nicollet Ave S, Minneapolis MN 55409 (main)
 - 607 County Road 10 NE, Ste 204, Blaine MN 55434
 - 7240 Brooklyn Blvd, Ste 210, Brooklyn Park MN 55429
+
+---
+
+## APRIL 13, 2026 — ETHAN'S RESPONSE AND KYLE'S FOLLOW-UP
+
+### EMAIL: Ethan Mustonen → Kyle (Morning, Apr 13, 2026)
+
+**On Hillary:**
+"We are very sorry to hear about Hillary - our sincerest condolences to you for her. This must be an extremely difficult time."
+
+**On IRS:**
+"If you think you are owed money on the returns, that is between you and your CPA to figure out. The bankruptcy just serves as a vehicle to get current on what was behind. You are still able to file amended returns, and if the numbers from the IRS didn't change, they would be required to reflect as such on the bankruptcy."
+
+**On Mortgage:**
+"The escrow shortage you are seeing is unfortunately very common. This is because everyone's property taxes and insurance has skyrocketed in the past two years - mine own included. The Agreed Order to pay the $1100 to get caught up on the mortgage is the best solution we have to try to have you get current with them. If you cannot make these additional payments, it isn't the end of the world. They simply remove themselves from the bankruptcy case, and then you would have the ability to negotiate directly with them on alternative loss mitigation options such as a loan modification at that point."
+
+**⚠️ ANALYSIS OF ETHAN'S RESPONSE:**
+1. IRS: Punted entirely to CPA. Did not mention §505(a) bankruptcy court jurisdiction, TAS, or Lisa's March 9 promise to contact IRS agent.
+2. Mortgage escrow: Acknowledged legitimate increases but ignored NAF's $4,143.80 suspense balance, payment rejections, false 7-payment claim, and $1,260 attorney fees for false motion.
+3. Cure agreement: Actually provided useful backup plan — if NAF lifts stay, Kyle can negotiate loan modification directly. At 2.625% with $170k equity, NAF has no incentive to foreclose.
+4. DID NOT ADDRESS: Plan modification, filing Hillary's death with court, unanswered March emails, 401(k) advice question.
+
+### Kyle's Follow-Up Response (Apr 13, 2026)
+
+Kyle sent detailed follow-up asking about:
+- §505(a) jurisdiction
+- Lisa's IRS contact status
+- NAF suspense balance and false payment claims
+- Plan modification (asked about on March 7 and 10 with no response)
+- Whether Hillary's death has been filed with court/trustee
