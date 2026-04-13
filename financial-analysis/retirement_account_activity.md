@@ -100,3 +100,56 @@ Dave Ramsey is adamantly against 401(k) borrowing:
 3. **Get current 401(k) statement** showing balance, loans, and withdrawal history
 4. **If court approval was not obtained**, discuss with attorney how to address this proactively rather than waiting for the trustee to discover it
 5. **The 401(k) is your family's future** — it is the one asset that is completely protected from everyone. Stop destroying it.
+
+---
+
+## 401(K) COMPLETE WITHDRAWAL AND LOAN HISTORY (From ADP/MyKPlan)
+
+### Checks Issued — Every Withdrawal During Bankruptcy
+
+| Date | Amount | Type | Status | Cleared | Context |
+|------|--------|------|--------|---------|---------|
+| 7/8/2025 | $6,000.00 | LOAN | CLEARED | 7/21/2025 | Behind on mortgage + cars, emailed Lisa 7/7/25 |
+| 7/21/2025 | $6,532.50 | HARDSHIP | CLEARED | 7/31/2025 | Same crisis — catching up on all payments |
+| 8/29/2025 | $3,048.50 | HARDSHIP | CLEARED | 9/9/2025 | 3 months behind on both car loans, told Lisa 8/5/25 |
+| 12/11/2025 | $4,773.75 | HARDSHIP | CLEARED | 12/18/2025 | NAF filed motion claiming 7 missed payments |
+| 3/17/2026 | $3,379.31 | HARDSHIP | CLEARED | 3/24/2026 | Day after Hillary's suicide, told CJ same day |
+| 4/10/2026 | $3,893.54 | HARDSHIP | OUTSTANDING | — | Most recent — vehicle + mortgage payments |
+
+### Totals:
+- **1 loan:** $6,000.00 (being repaid at $150.76/paycheck)
+- **5 hardship withdrawals:** $21,627.60
+- **Grand total taken from retirement:** $27,627.60
+
+### Current 401(k) Status (as of 4/10/2026):
+- Ending Balance: $24,761.34
+- Outstanding Loan: $3,891.80
+- Balance Without Loan: $20,869.54
+- Employer NEC Contribution: $15,950.00 (posted 4/2/2026, paycheck date 12/31/2025)
+- Investment: American Century One Choice 2050 Portfolio - Class R
+
+### Tax Cost of Hardship Withdrawals:
+- Total hardship withdrawals: $21,627.60
+- Federal tax (~22%): ~$4,758
+- MN state tax (~7%): ~$1,514
+- 10% early withdrawal penalty: ~$2,163
+- **Total tax/penalty cost: ~$8,435**
+- **Net received: ~$13,193 of the $21,627.60 withdrawn**
+- **Destroyed $21,628 in retirement savings to get ~$13,193 in hand**
+
+### Every Withdrawal Was:
+1. Communicated to Walker & Walker before or at the time of withdrawal
+2. Approved by the attorney (Lisa Falk 7/7/25, Ethan Mustonen 3/13/26)
+3. Used for legitimate necessities (mortgage, vehicle payments, preventing foreclosure/repossession)
+4. Documented in email correspondence
+
+### Attorney's Written Advice (Incorrect):
+- Lisa Falk (7/7/25): "We don't need any documentation from the 401k loan, it is fine to take out a loan if needed during the bankruptcy."
+- Ethan Mustonen (3/13/26): "You do not need trustee approval for a 401k withdrawal and it won't impact your current case."
+
+### Actual Law (Per Research):
+- Court approval required under §363(b)
+- Withdrawn funds lose ERISA protection (Patterson v. Shumate)
+- Become property of estate under §1306(a)
+- Trustee can retroactively seek increased plan payments
+- Debtor has malpractice claim against attorney for incorrect advice
