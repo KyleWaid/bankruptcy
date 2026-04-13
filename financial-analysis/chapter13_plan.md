@@ -158,7 +158,7 @@
 | Loan Number | 3000491534 |
 | Property | 3922 Boston Cir, Saint Paul MN 55123 |
 | Outstanding Principal | $276,749.16 |
-| Interest Rate | 7.625% |
+| Interest Rate | 2.625% (CORRECTED — was erroneously reported as 7.625%) |
 | Loan Type | FHA |
 | Prepayment Penalty | No |
 | Escrow Balance | -$7,738.16 (DEFICIT) |
