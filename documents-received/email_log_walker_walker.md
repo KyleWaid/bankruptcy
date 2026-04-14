@@ -484,3 +484,37 @@ Kyle sent detailed follow-up asking about:
 - NAF suspense balance and false payment claims
 - Plan modification (asked about on March 7 and 10 with no response)
 - Whether Hillary's death has been filed with court/trustee
+
+---
+
+## APRIL 13, 2026 — EVENING EXCHANGE
+
+### Ethan's Second Response (Evening):
+
+"The CP59 notice is an automated notice that gets sent out by the IRS. It is unfortunately common for them to be inaccurate during bankruptcy."
+
+"While I appreciate your use of AI to try to sort all of this out on your end, I am not sure what more information I can provide."
+
+On plan modification: "I am not sure what you would be looking for with the modification. The plan as it sits is paying what it has to... We could look at reducing your payments based on the increase in the mortgage payment but I can't promise it would go down much, if at all."
+
+On Hillary's death notice: "No notice is necessary for us to give to the Court as Hillary was not a party to the case."
+
+On unanswered emails: Cherry-picked Lisa's March 9 IRS response and his own March 13 401(k) response. Did not address: March 7 (4 emails about modification/refile), March 10 (Kyle asking CJ for help), March 13 (NAF default provisions question).
+
+On 401(k): Doubled down — "Trustee approval was not required for a 401k withdrawal."
+
+### Kyle's Response (10:01 PM) — In His Own Voice:
+
+Acknowledged Walker & Walker helped save his home. Said he doesn't want a new attorney. Asked for communication and action.
+
+Then presented 8 hard facts with specific numbers:
+1. NAF $4,143.80 suspense balance
+2. NAF claimed 7 payments, settled at 5, actual 2-3
+3. NAF $1,549 attorney fees for false motion
+4. Escrow deficit $62 → $8,422 with ~$3,500 unexplained
+5. NAF bounced payments with correct account number on file
+6. IRS proof of claim says "RETURN RECEIVED THAT IS NOT YET ASSESSED" — refunds owed
+7. $2,000/month structural deficit — plan doesn't work
+8. Unanswered emails March 7, 10, 13 specifically identified
+
+Closed with: "I am not trying to be difficult. I am trying to survive."
