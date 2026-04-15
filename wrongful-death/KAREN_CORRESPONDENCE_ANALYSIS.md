@@ -66,7 +66,9 @@ Hillary's hundreds of emails to Karen during this period construct a consistent 
 - Active audio recording of Kyle without consent, distributed to family members
 - Pre-emptive narrative construction framing herself as abuse victim
 - Coordinated archival of recordings across multiple family members
-- Karen reciprocally encouraged distribution of recordings, police/lawyer references, and framed Hillary's alcohol-induced blackouts as "being roofied" (March 5, 2026 email)
+- Karen reciprocally engaged with the narrative around recordings and offered references to police/lawyers in some exchanges
+
+**[CORRECTION 4/15/2026]** An earlier version of this document stated that Karen "framed Hillary's alcohol-induced blackouts as being roofied" in a March 5, 2026 email. This characterization was overstated and not adequately supported by directly quoted source text. Roofies (Rohypnol) and similar drugs are controlled substances and not casually accessible; an accusation that Kyle had been administering them to Hillary would be practically implausible. More importantly, Karen's later statement to the death investigator — that Kyle "would never have hurt" Hillary — directly contradicts any interpretation that Karen genuinely believed Kyle was drugging Hillary. Whatever language was used in that earlier email, the most likely interpretations are: (a) the term was used in loose conversational shorthand for "she got drunker than expected," (b) it was a reference to the 2015 bachelorette party incident (where the question of drugging by third parties is at least clinically plausible), or (c) the prior analysis over-read ambiguous source material. The stated framing has been retracted as a definitive claim.
 
 **Hillary's final email on March 15, 2026 (11:42 PM) — sent the night before her death:**
 
