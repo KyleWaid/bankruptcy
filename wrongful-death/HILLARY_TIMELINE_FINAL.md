@@ -104,7 +104,21 @@ Selected verbatim content:
 - **The "thief" accusation** corresponds to Kyle's documented confrontations with Hillary about her stealing money from the children's accounts to fund alcohol — confrontations Kyle has acknowledged. The accusation reflects a real conflict the disease re-categorized as abuse.
 - **The "monetary bribes" framing** corresponds to Kyle's documented financial controls (limiting bank account access, refusing to buy alcohol) instituted to prevent Hillary from drinking herself to death. The disease re-categorized protective limits as coercion.
 
-### 4. Karen Shippy's statement to the death investigator
+### 4. Karen Shippy's documented update of her view of Kyle, post-Hillary's-death
+
+**Pre-death:** Karen had received, for at least the 14 months before Hillary's death, a filtered version of the marriage and of Hillary's behavior. Specifically, Hillary had told Karen:
+
+- That she did not drink (Hillary was, in fact, in active severe AUD, with documented spend of approximately $733/month on alcohol over the 17 months preceding her death and with multiple hospitalizations involving blood transfusions for liver-related complications).
+- That she had not previously attempted suicide (Hillary had a documented prior attempt in mid-February 2026 resulting in ICU admission).
+- That Kyle was the source of her distress (the documentation, including Kyle's preserved sent-mail archive of caregiving and apology, contradicts the framing).
+
+Karen, lacking contradicting evidence, helped reinforce the filtered narrative — including by recommending a TV show about a controlling husband that Hillary then mapped onto her marriage.
+
+**Post-death:** Surviving spouse showed Karen the actual documentary evidence — medical records, hospital records (including the prior attempt), photographs of large numbers of empty 750ml liquor bottles recovered from Hillary's room (visual evidence that did not require any narrative argument), Total Wine financial transaction history showing approximately $12,458 in alcohol spending over the preceding 17 months, and other materials that Hillary had concealed from her mother. The filtered version Karen had been receiving collapsed against the documentation, particularly the photographic evidence that no verbal denial could survive.
+
+**Karen's statement to the death investigator** ("Kyle would never have hurt Hillary") was made after she had seen this evidence. The statement reflects her revised, evidence-based view of Kyle — not her pre-death view, which had been built on incomplete and partly fabricated information.
+
+### 5. Karen Shippy's statement to the death investigator (ongoing impact)
 
 During the formal investigation of Hillary's death, Karen Shippy (Hillary's mother) told the assigned detective AND told Kyle's mother independently that she **knew Kyle would never have hurt Hillary**.
 
