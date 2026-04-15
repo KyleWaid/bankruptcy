@@ -20,10 +20,43 @@ This finding fundamentally re-anchors the timeline of responsibility for her dea
 ### 1. The 43rd birthday phone entry (July 23, 2025)
 
 - Located on Hillary's phone, recovered after her death
-- Framed as a fictional/narrative "story" with date stamp matching her birthday
-- Text essentially declared the coming year as her last
-- Stated she knew what she had to do and was willing to do it
-- Pre-dates all of the late-2025 / early-2026 marital and medical events that have been variously cited as "causes"
+- Dated July 23, 2025 — her 43rd birthday
+- Full text recovered (preserved separately in surviving spouse's records)
+
+**Key statements verbatim from the note:**
+
+- *"I believe this will be my last year."*
+- *"I know what to do and I'm willing to do it."*
+- *"I had a decent life. My parents were great and they did nothing wrong, ever. My kids, also never did anything wrong. I just can't do this anymore."*
+- *"I am ashamed of what I become. I am an alcoholic. I completely, and fully recognize that."*
+- *"My mom pointed it out to me after she saw a TV show. I watched the show that she told me about, and I didn't want to mirror my life, but it did almost 100%."*
+- Names Kyle as a "controlling monster" and describes specific behaviors: yelling, name-calling, controlling visits to family, and sending hostile text messages
+
+**Analytical observations:**
+
+- The decision is documented on this date — 236 days (~8 months) before her death on March 16, 2026
+- Hillary names herself as the alcoholic in the same paragraph in which she names Kyle as the cause. Both attributions coexist in her own writing.
+- The note explicitly identifies Karen Shippy as a contributor to Hillary's construction of the abuse narrative ("My mom pointed it out to me after she saw a TV show... I watched the show that she told me about, and I didn't want to mirror my life, but it did almost 100%"). Karen actively gave Hillary a frame — a fictional TV depiction — through which Hillary then re-read her marriage.
+- This is significant for understanding the gap between Hillary's belief in 2025 and Karen's later statement to the death investigator (that Kyle "would never have hurt" Hillary). Karen herself appears to have updated her view between the two timepoints. The TV-show framing represents a particular period in mother-daughter exchange; Karen's post-death statement to police represents her settled view after losing her daughter.
+- Some of the behaviors Hillary describes (yelling, name-calling) the surviving spouse has acknowledged in candor as having occurred during conflict over Hillary's drinking and related household stress. The broader characterization ("controlling monster") is the depression's and the TV-template's editorialization of those behaviors and of normal life events such as geographic relocation.
+- **Specific factual correction to the note's "moved her away" framing:** Hillary's own job transfer drove the relocation referenced in the note. Kyle was not employed at the time of that move (had not been working for over a year). They moved together as a couple, with her career advancement as the reason. This is the opposite of the TV-show template's "controlling husband relocates the wife to isolate her" pattern. The note's application of that template to an actual joint move driven by Hillary's career is an example of the way the depression-Karen frame retroactively reinterpreted normal life events as predatory control.
+- The note pre-dates all of the late-2025 / early-2026 marital and medical events that have been variously cited as proximate "causes." The decision was set 8 months in advance.
+
+**On the architecture of the note as self-justification:**
+
+The note contains multiple statements that are factually contradicted by other preserved records:
+
+- "Moved her away from family" — refuted by the actual relocation history (Hillary's own job transfer; Kyle unemployed at the time; joint move).
+- "Convinced her to quit her job" — refuted by the actual financial history. Kyle's income made it possible for Hillary to have the option to stop working if she chose to. Creating the option to leave a job is the opposite of forcing financial dependence; it is enabling a choice that would not otherwise have been available.
+- "Controlling monster" — refuted by Karen Shippy's later statement to the death investigator that Kyle "would never have hurt" Hillary. The most informed third-party witness rendered the opposite verdict.
+- "Has no friends" — explained by the documented progression of severe alcohol use disorder, which characteristically isolates the affected person.
+- "Has never apologized" — refuted by Kyle's preserved sent-mail archive, which includes multiple direct apologies to Hillary including a 2/19/2026 message ("I love you. I have never cheated on you. I said things to you that were mean. I am sorry.").
+
+The note simultaneously names Hillary herself as the alcoholic ("I am ashamed of what I become. I am an alcoholic. I completely, and fully recognize that.") and assigns the cause of her despair to Kyle. These two attributions are in tension. Both coexist because the depression and active addiction permit contradictions that sober reflection would resolve.
+
+Considered as a clinical document, the note functions as the **self-justification a person constructs to make an otherwise impossible decision tolerable to themselves**. A parent of three young children who is contemplating suicide cannot easily face that the reason is alcoholism, depression, untreated trauma, and undiagnosed advancing cirrhosis. The depression therefore constructs an external villain, with the assistance of available framing material (the TV show Karen recommended). The note is the architecture of the permission Hillary needed to give herself.
+
+This characterization is consistent with the clinical literature on long-term suicidal ideation in patients with major depression and severe substance use disorder.
 
 ### 2. The kids' farewell note (mid-February 2026)
 
