@@ -245,3 +245,14 @@ Karen Shippy's statement to the investigating detective, made with knowledge of 
 ---
 
 **Disclaimer:** Analysis compiled with AI assistance. Not a clinical report. Not a legal opinion. Intended for the personal records of Kyle Waid and any future use by his children, his counsel, or licensed mental health or medical professionals working with him.
+
+---
+
+## ALIBI FOR 2015 BACHELORETTE NIGHT
+
+For the record, addressing any possible misreading of Karen Shippy's March 5, 2026 "roofied" email or related material:
+
+The surviving spouse was at home with the couple's three young children (one infant, two toddlers/preschoolers) on the night of the 2015 bachelorette party. The youngest, Eliza, was an infant at the time, which is consistent with Hillary's contemporaneous postpartum-depression lorazepam prescription. The surviving spouse was not at the bachelorette party, was not at the bride's residence in Richfield, and had no plausible access to the agents (GHB, Rohypnol, etc.) that would produce the clinical presentation Hillary had when she was delivered home in the early morning hours.
+
+Karen Shippy was aware of where Kyle was that night. Any reading of Karen's "roofied" comment that interprets it as an accusation against Kyle for the 2015 incident is not consistent with the facts known to Karen. The reasonable readings of that comment remain (a) Karen using "roofied" colloquially to give Hillary cover for an alcohol-and/or-eszopiclone blackout, or (b) Karen validating the third-party drugging theory for the 2015 incident itself (i.e., that the people at the bachelorette party drugged her).
+
