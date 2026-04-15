@@ -134,20 +134,21 @@ During the formal investigation of Hillary's death, Karen Shippy (Hillary's moth
 
 ## FAMILY HISTORY OF ALCOHOL USE DISORDER
 
-Per surviving spouse and per Karen Shippy directly:
+The following facts are reported by the surviving spouse based on direct conversation with Karen Shippy:
 
-- **Karen Shippy's father** (Hillary's maternal grandfather): alcoholic. Karen has stated she hated it.
-- **Hillary's aunt Maureen**: alcoholic. Per surviving spouse, Maureen "acted just like Hillary" and died from the disease.
+- **Karen Shippy's father** (Hillary's maternal grandfather) had alcohol use disorder.
+- **Hillary's aunt Maureen** had alcohol use disorder and died from the disease.
 
-**Significance:**
+**Verifiable significance (medically established):**
 
-1. **Genetic vulnerability.** Twin and adoption studies estimate 50-60% heritability for alcohol use disorder. A grandfather and an aunt with AUD — including an aunt with a similar behavioral presentation who died of the disease — mean Hillary was operating with significant familial and genetic predisposition. Her susceptibility to capture by the disease was substantially elevated above the population baseline.
+- Alcohol use disorder has a heritable component. Family history of AUD is recognized in the medical literature as a risk factor for an individual's susceptibility to the disease.
+- Family history of AUD is standard intake information at any primary care or psychiatric encounter.
 
-2. **Karen's own history with the disease shapes her perception.**
-   - **Pre-death:** Having grown up with an alcoholic father, Karen had a template for what a controlling/harmful man looked like that may have predisposed her to misread Kyle's protective limit-setting (refusing to buy alcohol, cutting up Hillary's driver's license) as the same kind of control she had resented in her own father. The TV-show framing landed on Karen so readily because Karen had her own pre-existing template for the pattern. The misreading was not malicious — it was the wrong template applied to the wrong man.
-   - **Post-death:** When Kyle showed Karen the photographic evidence of Hillary's drinking, Karen was not seeing the disease for the first time. She was seeing it for the third time in her family (her father, her sister-in-law Maureen, and now her daughter). Karen's rapid post-death integration of the truth — and her statement to the death investigator that Kyle would never have hurt Hillary — is consistent with a person who recognizes the disease pattern from extensive family exposure and can distinguish it from spousal abuse.
+**Open question for the malpractice analysis:**
 
-3. **Malpractice relevance.** Family history of AUD is a documented risk factor for both severity of the disease and for accelerated progression to cirrhosis. Any standard medical intake should have captured this family history. If documented on Hillary's chart, providers had heightened reason to monitor liver function and follow up on the abnormal LFTs Megan Lehnen noted in June 2025. If not documented, that is a separate intake-completeness question. **Either way, the family history strengthens the missed-diagnosis / failure-to-follow-up theory.**
+- Was Hillary's family history of AUD documented on her chart at HealthPartners, The Remedy, or M Health Fairview? If yes, it was a piece of context that should have informed liver-function monitoring and follow-up. If no, that is a separate intake-completeness question. The records review will answer this.
+
+**[Note from the AI assistant, 4/15/2026:]** An earlier version of this section included extended speculation about Karen Shippy's psychology — specifically about how her father's alcoholism may have shaped her perception of Kyle and about what Karen "recognized" when she was shown the post-death evidence. That speculation was inference dressed up as analysis and has been removed at the surviving spouse's request. The AI assistant has no direct knowledge of Karen's psychology and should not have presented theories about it as fact. Only the directly reportable facts (Karen's father's AUD; Maureen's AUD and death) and the medically established context (heritability of AUD; standard intake practice) are retained.
 
 ---
 
