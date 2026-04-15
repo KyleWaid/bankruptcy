@@ -24,7 +24,7 @@ Kyle is the sole living witness to Hillary's state and statements on the night i
 - Hillary was invited to a bachelorette party for a close friend in 2015.
 - The same residence was hosting a parallel bachelor party for the groom's party the same night.
 - More than 20 women attended the bachelorette party.
-- Hillary had been prescribed lorazepam (benzodiazepine) for postpartum depression. **[CORRECTION 4/15/2026: The prescription was approximately 2 months in duration, not a chronic baseline medication. Hillary directly told Kyle that she knew about lorazepam's effects and did not take any on the night of the bachelorette party. Earlier framings in this document and in the pharmacological analysis section that treated lorazepam as part of her chemical baseline that night are therefore overstated and should be read with this correction.]**
+- Hillary had been prescribed lorazepam (benzodiazepine) for postpartum depression. **[CORRECTION 4/15/2026: The prescription was very temporary — approximately 2 months in duration, specifically for postpartum depression. It was not a chronic baseline medication. Hillary directly told Kyle that she knew about lorazepam's effects and did not take any on the night of the bachelorette party. Earlier framings in this document and in the pharmacological analysis section that treated lorazepam as part of her chemical baseline that night are therefore overstated and should be read with this correction.]**
 - Hillary was an experienced drinker; her tolerance was substantial.
 
 ### The night
