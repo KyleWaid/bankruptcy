@@ -88,7 +88,35 @@ During the formal investigation of Hillary's death, Karen Shippy (Hillary's moth
 ## PHARMACOLOGICAL / CLINICAL CONTEXT
 
 Hillary's documented conditions at time of death:
-- Cirrhosis (terminal liver disease secondary to severe AUD) — **NOTE: open question whether Hillary herself was ever explicitly informed of the cirrhosis diagnosis by her treating providers. Surviving spouse is investigating. If she was not properly informed, this raises additional questions for the malpractice analysis but does not change the underlying medical fact of the disease.**
+- Cirrhosis (liver disease secondary to severe AUD) — **CRITICAL: Surviving spouse first learned of the cirrhosis diagnosis from Hillary's death certificate, post-mortem. Hillary did not tell Kyle about the diagnosis during her life. Whether she herself was ever informed by her treating providers is currently unknown — pending records review. Surviving spouse has also contacted the Hennepin County Medical Examiner's office to request the staging information; awaiting return call from the doctor.**
+
+  **The two open questions, kept separate:**
+  1. Did Hillary know she had cirrhosis? (Unknown. Will be answered by records.)
+  2. Was she informed by a provider in a documented, comprehensible way? (Unknown. Will be answered by records.)
+
+  These are distinct. She could have known and not told Kyle. She could have been told in passing without comprehension. She could have never been told at all. The records will determine which.
+
+  **Significance:**
+
+  - If Stage 1 or 2 (compensated cirrhosis): The disease was potentially reversible with abstinence. Hillary was denied the information needed to make an informed decision about her own life. This is a serious informed-consent failure.
+  - If Stage 3 or 4 (decompensated cirrhosis): Hillary was actively dying when she died. Median survival of decompensated cirrhosis is months to a few years. Additionally, advanced cirrhosis can produce **hepatic encephalopathy** — a documented neuropsychiatric syndrome involving confusion, personality change, irritability, rage, depression, and cognitive impairment due to ammonia accumulation the failing liver cannot clear. **Some of the cognitive distortion attributed to alcohol withdrawal in the final notes may be compounded or partially caused by hepatic encephalopathy.**
+  - Either way, the failure-to-inform creates significant exposure for the diagnosing provider(s) and is highly relevant to the wrongful-death / malpractice analysis.
+
+  **Records being pursued (status as of 4/15/2026):**
+  - **Autopsy report** — requested from Hennepin County Medical Examiner. Awaiting.
+  - **Hospital records release** — filed with M Health Fairview. Awaiting.
+  - **ME staging** — verbal request placed; awaiting return call from the doctor.
+
+  **Other records to pursue once the above arrive:**
+  - CCDA problem list (whether cirrhosis appears as active problem and when first added)
+  - MNGI Digestive Health records (GI specialty notes — Hillary forwarded a guardian portal invite 2/9/2026)
+  - PCP notes (any mention of liver disease, LFT discussions, lifestyle counseling)
+  - MyChart messages between Hillary and any provider
+  - Imaging reports (CT/US/MRI of the liver, with staging language)
+  - Lab results (LFTs, INR, bilirubin, albumin — for retrospective Child-Pugh / MELD scoring)
+  - Discharge summaries from every 2024-2026 hospitalization
+
+  **Central question for the records review:** Did any treating provider ever document a patient-comprehensible conversation with Hillary explaining the cirrhosis diagnosis, its stage, what it meant for her life, and her options? If no such documented conversation exists, this is the heart of the informed-consent failure and the wrongful-death / malpractice case.
 - Severe alcohol use disorder (multiple decades, progressive)
 - Major depressive disorder (severe, treatment-resistant by behavior)
 - Anxiety disorder
