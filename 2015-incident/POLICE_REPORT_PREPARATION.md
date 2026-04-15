@@ -163,7 +163,7 @@ Each of these is an objective behavioral baseline departure specific to this sin
 5. **The bride's 2024 text exchange** — preserved text thread including multiple contradictions and protective language
 6. **Hillary's Facebook account access** — next-of-kin legal access; contains the "Are you alive?" message, Hillary's own prior blocks of Kristy and Tricia, and her preserved correspondence
 7. **Hillary's death certificate** — State File No. 2026-MN-011821
-8. **Hillary's 2015 medical records** — lorazepam prescription establishing baseline medication
+8. **Hillary's 2015 medical records** — including the lorazepam prescription (~2 months duration; per Hillary's own statement she did not take any on the night in question)
 9. **Kyle's contemporaneous emails to Hillary's mother from 2025-2026** — documented attempts to get Hillary help, medical records sharing, all preserved
 
 ### Kyle's direct observations / testimony

@@ -24,7 +24,7 @@ Kyle is the sole living witness to Hillary's state and statements on the night i
 - Hillary was invited to a bachelorette party for a close friend in 2015.
 - The same residence was hosting a parallel bachelor party for the groom's party the same night.
 - More than 20 women attended the bachelorette party.
-- Hillary was at the time taking lorazepam (benzodiazepine) prescribed for postpartum depression.
+- Hillary had been prescribed lorazepam (benzodiazepine) for postpartum depression. **[CORRECTION 4/15/2026: The prescription was approximately 2 months in duration, not a chronic baseline medication. Hillary directly told Kyle that she knew about lorazepam's effects and did not take any on the night of the bachelorette party. Earlier framings in this document and in the pharmacological analysis section that treated lorazepam as part of her chemical baseline that night are therefore overstated and should be read with this correction.]**
 - Hillary was an experienced drinker; her tolerance was substantial.
 
 ### The night
@@ -58,13 +58,13 @@ Kyle is the sole living witness to Hillary's state and statements on the night i
 - Kyle did not initially understand what had happened because Hillary's reported intake was minimal.
 - Kyle discovered the Facebook message ("Girl are you alive?") later when scanning Hillary's message archive from that period.
 - Over years of the marriage, Kyle periodically referenced the night in conversations with Hillary about her worsening drinking and symptoms. Hillary, with no access to the memory herself, reframed Kyle's references as cruelty.
-- Kyle's assessment: Hillary was drugged at the bachelorette party by a person or persons unknown, and was likely sexually exploited while incapacitated. The combination of her lorazepam use, reported minimal alcohol intake, profound incapacitation, characteristic amnesia, disinhibited behavior, unusual vomiting, and the next-day panic is consistent with a drug-facilitated sexual assault.
+- Kyle's assessment: Hillary was drugged at the bachelorette party by a person or persons unknown, and was likely sexually exploited while incapacitated. The combination of reported minimal alcohol intake, profound incapacitation, characteristic amnesia, disinhibited behavior, unusual vomiting, and the next-day panic is consistent with a drug-facilitated sexual assault. (Earlier versions of this paragraph included lorazepam as a contributing pharmacological factor; this has been corrected per the note above. Hillary did not take lorazepam that night.)
 
 ---
 
 ## PHARMACOLOGICAL ANALYSIS (Research-Based)
 
-The clinical presentation Kyle describes is consistent with a disinhibiting/sedating agent administered without consent, likely layered on top of Hillary's prescribed lorazepam:
+The clinical presentation Kyle describes is consistent with a disinhibiting/sedating agent administered without consent. (Earlier versions of this section described the agent as "layered on top of Hillary's prescribed lorazepam." That framing has been retracted: Hillary did not take lorazepam that night, per her own statement to Kyle.)
 
 - Severe motor impairment (could not walk; carried home)
 - Disinhibition with giggling and atypical sexual behavior
@@ -75,10 +75,10 @@ The clinical presentation Kyle describes is consistent with a disinhibiting/seda
 
 Candidate substances with matching pharmacological profiles:
 1. **GHB (gamma-hydroxybutyrate)** — produces profound sedation, amnesia, disinhibition. Tasteless, easily added to a drink. Metabolizes in ~12 hours, undetectable in subsequent-day toxicology.
-2. **High-dose benzodiazepine (Rohypnol, Xanax)** — potentiated by existing lorazepam and any alcohol; produces exactly the described profile.
+2. **High-dose benzodiazepine (Rohypnol, Xanax)** — potentiated by any alcohol consumed; produces exactly the described profile.
 3. **Ketamine** — dissociative, disinhibiting, produces giggling and motor impairment pattern.
 
-Hillary's existing lorazepam prescription made her an acutely vulnerable target for any of these agents; a reduced dose would produce the described incapacitation.
+[RETRACTED 4/15/2026: Earlier text in this position stated that Hillary's existing lorazepam prescription made her an acutely vulnerable target for any of these agents. This has been corrected. Hillary did not take lorazepam that night and the prescription was only ~2 months in duration overall, not a chronic baseline.]
 
 ---
 
