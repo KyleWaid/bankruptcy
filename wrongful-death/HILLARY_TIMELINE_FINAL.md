@@ -248,11 +248,11 @@ Karen Shippy's statement to the investigating detective, made with knowledge of 
 
 ---
 
-## ALIBI FOR 2015 BACHELORETTE NIGHT
+## SURVIVING SPOUSE'S NON-PRESENCE AT 2015 BACHELORETTE NIGHT
 
-For the record, addressing any possible misreading of Karen Shippy's March 5, 2026 "roofied" email or related material:
+For the record, and to clarify any possible misreading of Karen Shippy's March 5, 2026 "roofied" email or related material:
 
-The surviving spouse was at home with the couple's three young children (one infant, two toddlers/preschoolers) on the night of the 2015 bachelorette party. The youngest, Eliza, was an infant at the time, which is consistent with Hillary's contemporaneous postpartum-depression lorazepam prescription. The surviving spouse was not at the bachelorette party, was not at the bride's residence in Richfield, and had no plausible access to the agents (GHB, Rohypnol, etc.) that would produce the clinical presentation Hillary had when she was delivered home in the early morning hours.
+The surviving spouse was simply not present at the 2015 bachelorette party. He was at home that night with the couple's three young children — including infant Eliza, whose age is consistent with Hillary's contemporaneous postpartum-depression lorazepam prescription. The party was held at the bride's residence in Richfield, with parallel events at the same residence. The surviving spouse was not in attendance at any of them.
 
-Karen Shippy was aware of where Kyle was that night. Any reading of Karen's "roofied" comment that interprets it as an accusation against Kyle for the 2015 incident is not consistent with the facts known to Karen. The reasonable readings of that comment remain (a) Karen using "roofied" colloquially to give Hillary cover for an alcohol-and/or-eszopiclone blackout, or (b) Karen validating the third-party drugging theory for the 2015 incident itself (i.e., that the people at the bachelorette party drugged her).
+Karen Shippy was aware of where Kyle was that night. Any reading of Karen's "roofied" comment that interprets it as referring to Kyle for the 2015 incident is not consistent with the facts known to Karen. The reasonable readings of that comment remain (a) Karen using "roofied" colloquially to give Hillary cover for an alcohol-and/or-eszopiclone blackout that Hillary was describing in another context, or (b) Karen validating the third-party drugging theory for the 2015 incident itself (i.e., that the people at the bachelorette party drugged her). The only documentation in the case files in which "drugging" is discussed at all is the 2015 incident, and the surviving spouse was not present at that event.
 
