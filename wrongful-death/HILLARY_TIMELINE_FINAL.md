@@ -265,11 +265,13 @@ A single bottle of eszopiclone, prescribed years prior for sleep, was found by t
 
 **Key facts:**
 
-- One single bottle, one prescription, years old
-- Hoarded and rationed over time, not refilled
-- Used intermittently, not daily
-- Concealed inside another medication bottle
-- Surviving spouse was unaware until last month before her death
+- One single bottle, one prescription, years old, never refilled
+- Concealed inside another medication bottle until the surviving spouse discovered it in the last month before Hillary's death
+- Use was more frequent than initially characterized: surviving spouse was finding 1-2 loose pills on the floor approximately twice per week (visible loss of 2-4 pills per week, with actual consumption potentially higher)
+- After discovery, surviving spouse removed 10 pills from the bottle for safekeeping
+- **Surviving spouse drew Hillary a picture showing her exactly where the 10 pills were located.** Hillary had access. She did not take them.
+- After Hillary chose not to take them, surviving spouse flushed the 10 pills down the toilet (correct legal handling of a Schedule IV controlled substance found loose, outside an active labeled prescription bottle)
+- Surviving spouse proactively disclosed his possession of these pills to the death investigator during the formal investigation, knowing they were a controlled substance
 
 **Clinical observations from the surviving spouse:**
 
@@ -277,10 +279,14 @@ A single bottle of eszopiclone, prescribed years prior for sleep, was found by t
 - She would go outside and report not knowing who she was
 - Behavior consistent with the documented Z-drug parasomnia / complex sleep behavior pattern, especially when combined with alcohol
 
-**Implications:**
+**Significant implication for understanding Hillary's death:**
+
+Hillary had access to a substantial dose of eszopiclone in the final period. The surviving spouse had pointed her directly to it. She chose not to take it. She instead used a deliberate, active method (ligature hanging). **This indicates her decision to die was firm and method-specific, not impulsive and not driven by access to a particular means.** Means restriction — a primary suicide-prevention strategy — is effective against impulsive or method-specific suicide. Hers was neither.
+
+**Other implications:**
 
 - This is medication concealment / patient-side hoarding, not an active prescribing question for the malpractice analysis
 - However: the 2/17/2026 ICU admission for Benadryl overdose could have involved eszopiclone as a co-substance. Toxicology screen records should be reviewed for Z-drug metabolites, and the medication reconciliation at intake should be reviewed for whether eszopiclone was disclosed or asked about
 - The dissociative / amnesic episodes Hillary described to others (and that Karen referenced colloquially as "roofied") are most plausibly explained by eszopiclone-and/or-alcohol episodes Hillary generated through substances she was secretly taking
 
-**For the historical record:** the day-to-day unpredictability of Hillary's behavior in the final years was primarily driven by alcohol cycling (drinking → withdrawal → drinking) compounded by treatment-resistant major depression. Eszopiclone use was occasional and tied to specific extreme episodes, not the daily picture.
+**For the historical record:** the day-to-day unpredictability of Hillary's behavior in the final years was primarily driven by alcohol cycling (drinking → withdrawal → drinking) compounded by treatment-resistant major depression. Eszopiclone use was a recurring secondary factor producing the most extreme episodes (dissociation, wandering, total amnesia).
