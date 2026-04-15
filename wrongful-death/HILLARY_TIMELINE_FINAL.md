@@ -269,8 +269,8 @@ A single bottle of eszopiclone, prescribed years prior for sleep, was found by t
 - Concealed inside another medication bottle until the surviving spouse discovered it in the last month before Hillary's death
 - Use was more frequent than initially characterized: surviving spouse was finding 1-2 loose pills on the floor approximately twice per week (visible loss of 2-4 pills per week, with actual consumption potentially higher)
 - After discovery, surviving spouse removed 10 pills from the bottle for safekeeping
-- **Surviving spouse drew Hillary a picture showing her exactly where the 10 pills were located.** Hillary had access. She did not take them.
-- After Hillary chose not to take them, surviving spouse flushed the 10 pills down the toilet (correct legal handling of a Schedule IV controlled substance found loose, outside an active labeled prescription bottle)
+- **Surviving spouse drew Hillary a picture showing her exactly where the 10 pills were located.** Hillary had access. The surviving spouse does not know with certainty whether she took any of them; she did not appear to take them in any obvious way, and she did not use them as her means of death. She also did not like the medication.
+- Surviving spouse later flushed the remaining pills down the toilet (correct legal handling of a Schedule IV controlled substance found loose, outside an active labeled prescription bottle)
 - Surviving spouse proactively disclosed his possession of these pills to the death investigator during the formal investigation, knowing they were a controlled substance
 
 **Clinical observations from the surviving spouse:**
@@ -281,7 +281,7 @@ A single bottle of eszopiclone, prescribed years prior for sleep, was found by t
 
 **Significant implication for understanding Hillary's death:**
 
-Hillary had access to a substantial dose of eszopiclone in the final period. The surviving spouse had pointed her directly to it. She chose not to take it. She instead used a deliberate, active method (ligature hanging). **This indicates her decision to die was firm and method-specific, not impulsive and not driven by access to a particular means.** Means restriction — a primary suicide-prevention strategy — is effective against impulsive or method-specific suicide. Hers was neither.
+Hillary had at least partial access to a substantial dose of eszopiclone in the final period — the surviving spouse pointed her directly to it. Whether she took any of those specific 10 pills is unknown, but she did not use eszopiclone as her exit method. She instead used a deliberate, active method (ligature hanging). She also reportedly did not like the medication. **The available facts indicate her decision to die was method-specific and not driven by particular means access.** Means restriction — a primary suicide-prevention strategy — is most effective against impulsive or method-specific suicide. Hers does not appear to have been either.
 
 **Other implications:**
 
