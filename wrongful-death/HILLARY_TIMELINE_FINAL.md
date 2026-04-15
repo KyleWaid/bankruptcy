@@ -90,11 +90,13 @@ During the formal investigation of Hillary's death, Karen Shippy (Hillary's moth
 Hillary's documented conditions at time of death:
 - Cirrhosis (liver disease secondary to severe AUD) — **CRITICAL: Surviving spouse first learned of the cirrhosis diagnosis from Hillary's death certificate, post-mortem. Hillary did not tell Kyle about the diagnosis during her life. Whether she herself was ever informed by her treating providers is currently unknown — pending records review. Surviving spouse has also contacted the Hennepin County Medical Examiner's office to request the staging information; awaiting return call from the doctor.**
 
-  **The two open questions, kept separate:**
-  1. Did Hillary know she had cirrhosis? (Unknown. Will be answered by records.)
-  2. Was she informed by a provider in a documented, comprehensible way? (Unknown. Will be answered by records.)
+  **The three possible scenarios, with current likelihood per available records (per MEDICAL_RECORDS_SUMMARY.md):**
 
-  These are distinct. She could have known and not told Kyle. She could have been told in passing without comprehension. She could have never been told at all. The records will determine which.
+  1. **Hillary was diagnosed with cirrhosis and was informed.** Unlikely — cirrhosis is not on any outpatient active problem list at HealthPartners or The Remedy, and there is no documented patient-communication record.
+  2. **Hillary was diagnosed but not properly informed.** Possible. No documentation either way yet.
+  3. **Hillary was never formally diagnosed in life — only identified at autopsy.** **Most likely based on current records.** HealthPartners provider Megan Lehnen APRN CNP recommended an abdominal ultrasound to evaluate the liver in June 2025 based on elevated AST. No evidence the ultrasound was performed or followed up on. Lab trajectory across 2025 showed progressive alcoholic liver disease markers (macrocytic anemia, low platelets, elevated AST), and a May 2025 hospitalization required a blood transfusion — consistent with advanced liver dysfunction. Despite all of this, the diagnosis appears to have first been formally made at autopsy by Sarah E. Meyers, M.D., Hennepin County ME.
+
+  **If scenario 3 is correct, this is a missed-diagnosis / failure-to-follow-up case, not an informed-consent case.** Both have malpractice exposure but the legal theories are different. Counsel handling the malpractice matter should evaluate both.
 
   **Significance:**
 
