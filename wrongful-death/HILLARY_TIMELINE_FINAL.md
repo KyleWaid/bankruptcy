@@ -256,3 +256,31 @@ The surviving spouse was simply not present at the 2015 bachelorette party. He w
 
 Karen Shippy was aware of where Kyle was that night. Any reading of Karen's "roofied" comment that interprets it as referring to Kyle for the 2015 incident is not consistent with the facts known to Karen. The reasonable readings of that comment remain (a) Karen using "roofied" colloquially to give Hillary cover for an alcohol-and/or-eszopiclone blackout that Hillary was describing in another context, or (b) Karen validating the third-party drugging theory for the 2015 incident itself (i.e., that the people at the bachelorette party drugged her). The only documentation in the case files in which "drugging" is discussed at all is the 2015 incident, and the surviving spouse was not present at that event.
 
+
+---
+
+## ESZOPICLONE (LUNESTA) — HIDDEN MEDICATION
+
+A single bottle of eszopiclone, prescribed years prior for sleep, was found by the surviving spouse in the last month before Hillary's death. The bottle was concealed inside another medication bottle. Hillary had not disclosed to the surviving spouse that she still had this medication, and the surviving spouse was unaware she was occasionally taking it.
+
+**Key facts:**
+
+- One single bottle, one prescription, years old
+- Hoarded and rationed over time, not refilled
+- Used intermittently, not daily
+- Concealed inside another medication bottle
+- Surviving spouse was unaware until last month before her death
+
+**Clinical observations from the surviving spouse:**
+
+- On occasions when Hillary took the medication, she had dense anterograde amnesia (no memory of the period)
+- She would go outside and report not knowing who she was
+- Behavior consistent with the documented Z-drug parasomnia / complex sleep behavior pattern, especially when combined with alcohol
+
+**Implications:**
+
+- This is medication concealment / patient-side hoarding, not an active prescribing question for the malpractice analysis
+- However: the 2/17/2026 ICU admission for Benadryl overdose could have involved eszopiclone as a co-substance. Toxicology screen records should be reviewed for Z-drug metabolites, and the medication reconciliation at intake should be reviewed for whether eszopiclone was disclosed or asked about
+- The dissociative / amnesic episodes Hillary described to others (and that Karen referenced colloquially as "roofied") are most plausibly explained by eszopiclone-and/or-alcohol episodes Hillary generated through substances she was secretly taking
+
+**For the historical record:** the day-to-day unpredictability of Hillary's behavior in the final years was primarily driven by alcohol cycling (drinking → withdrawal → drinking) compounded by treatment-resistant major depression. Eszopiclone use was occasional and tied to specific extreme episodes, not the daily picture.
