@@ -266,7 +266,8 @@ A single bottle of eszopiclone, prescribed years prior for sleep, was found by t
 **Key facts:**
 
 - One single bottle, one prescription, years old, never refilled
-- Concealed inside another medication bottle until the surviving spouse discovered it in the last month before Hillary's death
+- Hidden and hoarded for years; concealed inside another medication bottle until the surviving spouse discovered it in the last month before Hillary's death
+- **Hillary actively lied to the surviving spouse about the medication on at least three separate occasions, including telling him she only had 6 pills when in fact she had substantially more.** This was deliberate, repeated, specific deception about quantity, not passive non-disclosure.
 - Use was more frequent than initially characterized: surviving spouse was finding 1-2 loose pills on the floor approximately twice per week (visible loss of 2-4 pills per week, with actual consumption potentially higher)
 - After discovery, surviving spouse removed 10 pills from the bottle for safekeeping
 - **Surviving spouse drew Hillary a picture showing her exactly where the 10 pills were located.** Hillary had access. The surviving spouse does not know with certainty whether she took any of them; she did not appear to take them in any obvious way, and she did not use them as her means of death. She also did not like the medication.
