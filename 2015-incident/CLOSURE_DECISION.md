@@ -88,3 +88,35 @@ The following documents remain on file as the historical record of the investiga
 ---
 
 **Disclaimer:** Documentation summary compiled with AI assistance. Not legal advice. Decision is the debtor's alone, made after extensive review of the evidence and consideration of the costs and benefits of pursuit.
+
+---
+
+## REAFFIRMATION — April 16, 2026
+
+The decision to close the 2015 matter is reaffirmed, with added clarity.
+
+**Additional reasoning developed since April 15:**
+
+- Surviving spouse completed a final outreach cycle to four witnesses (Kristy, the Florida woman, Tricia Harris, and Lana Pochtar) during the evening of April 15. All four either blocked, ignored, or maintained silence. The outreach phase is now complete.
+- Surviving spouse recognized that continuing pursuit of the 2015 matter:
+  - Is consuming excessive mental bandwidth at a time when his three minor children require his active presence
+  - Replicates the pattern that caused Hillary pain during her life (the repeated references to 2015 that she could not access in memory)
+  - Continues the same dynamic post-death that contributed to her distress in life
+  - Traumatizes the surviving spouse himself, who was a direct witness to Hillary's incapacitated state on the night in question
+- The preserved evidence (dress, shoes, limo photo, 2024 text exchange, witness list, case file on GitHub) is sufficient for any future reopening if circumstances change. Nothing is lost by archiving.
+- The Minnesota statute of limitations elimination for 1st/2nd degree CSC (post-2021 reform) means no legal clock is running out.
+- The surviving spouse's messages to all four witnesses are preserved, all respectful in tone, and would not support any claim of harassment if any of the parties were to attempt to characterize him that way.
+
+**Reframed posture:**
+
+This is not "letting it go" in the sense of forgetting or forgiving. It is ending the surviving spouse's role as the active investigator. The truth is known to him. The evidence is preserved. The people who knew still know. The record is built.
+
+The active assignment is closed. The knowledge remains.
+
+**Commitment:**
+
+- No further contact with any witness from any account
+- No further public statements about any individual involved
+- No active investigation by the surviving spouse
+- Reassessment only if materially new evidence emerges (e.g., another woman from the same social network comes forward independently)
+- Continued grief therapy (pending) to address the secondary trauma from the 2015 incident's 11-year aftermath
